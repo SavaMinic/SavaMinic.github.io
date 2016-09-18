@@ -205,6 +205,11 @@
 img.def_image { width: 100%; }
 span.error { color: red;}
 
+.fa { transition: color 0.2s ease; }
+.fa:hover {
+    color: rgba(220,220,220,100);
+}
+
 body {
 	font-family: Avenir, 'Helvetica Neue', 'Lato', 'Segoe UI', Helvetica, Arial, sans-serif;
 	line-height: 1.5;
