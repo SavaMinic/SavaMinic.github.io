@@ -45,15 +45,15 @@ var Card = (function (window) {
      * Open card.
      * @param {Function} callback The callback `onCardMove`.
      */
-    Card.prototype.openCard = function (callback) {
+    Card.prototype.openCard = function (callback, isInstant) {
 
         this._TL = new TimelineLite;
 
-        var slideContentDown = this._slideContentDown();
-        var clipImageIn = this._clipImageIn();
-        var floatContainer = this._floatContainer(callback);
-        var clipImageOut = this._clipImageOut();
-        var slideContentUp = this._slideContentUp();
+        var slideContentDown = this._slideContentDown(isInstant);
+        var clipImageIn = this._clipImageIn(isInstant);
+        var floatContainer = this._floatContainer(callback, isInstant);
+        var clipImageOut = this._clipImageOut(isInstant);
+        var slideContentUp = this._slideContentUp(isInstant);
 
         // Compose sequence and use duration to overlap tweens.
         this._TL.add(slideContentDown);
@@ -71,9 +71,9 @@ var Card = (function (window) {
      * Slide content down.
      * @private
      */
-    Card.prototype._slideContentDown = function () {
+    Card.prototype._slideContentDown = function (isInstant) {
 
-        var tween = TweenLite.to(this._content, 0.8, {
+        var tween = TweenLite.to(this._content, isInstant ? 0.01 : 0.8, {
             y: window.innerHeight,
             ease: Expo.easeInOut
         });
@@ -85,7 +85,7 @@ var Card = (function (window) {
      * Clip image in.
      * @private
      */
-    Card.prototype._clipImageIn = function () {
+    Card.prototype._clipImageIn = function (isInstant) {
 
         // Polygon.
         var TL = new TimelineLite;
@@ -106,10 +106,11 @@ var Card = (function (window) {
 
         var points = [];
 
+        var instant = isInstant;
         // Create a tween for each point.
         start.forEach(function (point, i) {
 
-            var tween = TweenLite.to(point, 1.5, end[i]);
+            var tween = TweenLite.to(point, instant ? 0.01 : 1.5, end[i]);
 
             end[i].onUpdate = function () {
 
@@ -139,7 +140,7 @@ var Card = (function (window) {
      * @param {Function} callback The callback `onCardMove`.
      * @private
      */
-    Card.prototype._floatContainer = function (callback) {
+    Card.prototype._floatContainer = function (callback, isInstant) {
 
         $(document.body).addClass(CLASSES.bodyHidden);
 
@@ -163,7 +164,7 @@ var Card = (function (window) {
             overflow: 'hidden'
         });
 
-        TL.to([this._container, track], 2, {
+        TL.to([this._container, track], isInstant ? 0.01 : 2, {
             width: windowW,
             height: '100%',
             x: windowW / 2,
@@ -201,9 +202,9 @@ var Card = (function (window) {
      * Slide content up.
      * @private
      */
-    Card.prototype._slideContentUp = function () {
+    Card.prototype._slideContentUp = function (isInstant) {
 
-        var tween = TweenLite.to(this._content, 1, {
+        var tween = TweenLite.to(this._content, isInstant ? 0.01 : 1, {
             y: 0,
             clearProps: 'all',
             ease: Expo.easeInOut
@@ -245,9 +246,9 @@ var Card = (function (window) {
     /**
      * Hide card, called for all cards except the selected one.
      */
-    Card.prototype.hideCard = function () {
+    Card.prototype.hideCard = function (isInstant) {
 
-        var tween = TweenLite.to(this._el, 0.4, {
+        var tween = TweenLite.to(this._el, isInstant ? 0.01 : 0.4, {
             scale: 0.8,
             autoAlpha: 0,
             transformOrigin: 'center bottom',
@@ -260,9 +261,9 @@ var Card = (function (window) {
     /**
      * Show card, called for all cards except the selected one.
      */
-    Card.prototype.showCard = function () {
+    Card.prototype.showCard = function (isInstant) {
 
-        var tween = TweenLite.to(this._el, 0.5, {
+        var tween = TweenLite.to(this._el, isInstant ? 0.01 : 0.5, {
             scale: 1,
             autoAlpha: 1,
             clearProps: 'all',

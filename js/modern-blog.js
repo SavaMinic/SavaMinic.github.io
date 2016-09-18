@@ -64,7 +64,7 @@ var demo = (function (window) {
 
         _bindHashChange();
 
-        _triggerOpenCard('', _getHashFromURL(location.href));
+        _triggerOpenCard('', _getHashFromURL(location.href), true);
     };
 
     /**
@@ -140,7 +140,7 @@ var demo = (function (window) {
      * @private
      *
      */
-    var _playSequence = function (isOpenClick, id) {
+    var _playSequence = function (isOpenClick, id, isInstant) {
 
         var card = layout[id].card;
 
@@ -152,15 +152,15 @@ var demo = (function (window) {
         // Create timeline for the whole sequence.
         var sequence = new TimelineLite({paused: true});
 
-        var tweenOtherCards = _showHideOtherCards(id);
+        var tweenOtherCards = _showHideOtherCards(id, isInstant);
 
         if (!card.isOpen) {
             // Open sequence.
 
             _setPatternBgImg($(this).find(SELECTORS.cardImage).find('image'));
 
-            sequence.add(tweenOtherCards);
-            sequence.add(card.openCard(_onCardMove), 0);
+            sequence.add(tweenOtherCards, tweenOtherCards.duration());
+            sequence.add(card.openCard(_onCardMove, isInstant), 0);
 
         } else {
             // Close sequence.
@@ -180,7 +180,7 @@ var demo = (function (window) {
      * @param {number} id The id of the clcked card to be avoided.
      * @private
      */
-    var _showHideOtherCards = function (id) {
+    var _showHideOtherCards = function (id, isInstant) {
 
         var TL = new TimelineLite;
 
@@ -193,12 +193,12 @@ var demo = (function (window) {
 
                 // When called with `openCard`.
                 if (card.id !== id && !selectedCard.isOpen) {
-                    TL.add(card.hideCard(), 0);
+                    TL.add(card.hideCard(isInstant), 0);
                 }
 
                 // When called with `closeCard`.
                 if (card.id !== id && selectedCard.isOpen) {
-                    TL.add(card.showCard(), 0);
+                    TL.add(card.showCard(isInstant), 0);
                 }
             }
         }
@@ -265,7 +265,7 @@ var demo = (function (window) {
      * initialize page view according to hash
      * @private
      */
-    var _triggerOpenCard = function (fromId, toId) {
+    var _triggerOpenCard = function (fromId, toId, isInstant) {
         var getIndex = function (card) {
             var index = $(card).attr(ATTRIBUTES.index);
             return parseInt(index, 10);
@@ -273,13 +273,13 @@ var demo = (function (window) {
         if (fromId) {
             var fromBlogCard = $('[' + ATTRIBUTES.id + '="' + fromId + '"]')[0];
             if (fromBlogCard) {
-                _playSequence.call(fromBlogCard, false, getIndex(fromBlogCard));
+                _playSequence.call(fromBlogCard, false, getIndex(fromBlogCard, isInstant));
             }
         }
         if (toId) {
             var toBlogCard = $('[' + ATTRIBUTES.id + '="' + toId + '"]')[0];
             if (toBlogCard) {
-                _playSequence.call(toBlogCard, true, getIndex(toBlogCard));
+                _playSequence.call(toBlogCard, true, getIndex(toBlogCard), isInstant);
             }
         }
     };

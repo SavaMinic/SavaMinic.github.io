@@ -1,0 +1,28 @@
+---
+title:  "Mission CALIPSO"
+subtitle: "Ludum Dare 28 - You Only Get One"
+author: "Sava"
+avatar: "img/authors/sava.jpg"
+image: "img/callisto/header.jpg"
+date:   2013-12-16 12:12:12
+---
+
+<img class="def_image" src="/img/callisto/shot1.jpg" />
+
+Space exploration game, worked between themes 'You only get one' and 'Colonisation sim'. 
+
+You need to colonize the Callisto moon, second biggest Jupiter's moon with 4 rovers. 
+Since there is a lot of distance between Earth and Callisto, YOU ONLY GET ONE command per 2s!!! 
+
+Mine the ore (green) and transport it back to base (red). 
+Move around mountains (brown) and beware of the sand pits (black), by watching for sand (yellow) which surrounds them. 
+Rovers have also limited power, so you need to return them to base to recharge. 
+
+```
+Standard 1-4 for rovers. 
+NUMPAD/QWE-ASD-ZXC for commands. 
+P is cheat for showing whole map. 
+```
+
+<hr />
+## P.S. Didn't have time to implement building and more obstacles, which would maybe include some fun into this game :P 
