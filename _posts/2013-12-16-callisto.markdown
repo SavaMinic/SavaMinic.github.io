@@ -27,4 +27,5 @@ P is cheat for showing whole map.
 
 <hr />
 ### P.S. Didn't have time to implement building and more obstacles, which would maybe include some fun into this game :P 
+
 ### <span class="error">Playable and source code lost on removed dropbox folder!</span>
