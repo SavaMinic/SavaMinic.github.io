@@ -214,6 +214,8 @@ span.error { color: red;}
     color: rgba(220,220,220,100);
 }
 
+h3 a { margin: 0px 10px;}
+
 body {
 	font-family: Avenir, 'Helvetica Neue', 'Lato', 'Segoe UI', Helvetica, Arial, sans-serif;
 	line-height: 1.5;
