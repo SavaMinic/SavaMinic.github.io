@@ -17,22 +17,22 @@ I am very happy to see this game finished :)
 Light up the world by passing all its points without hitting death ( red circles ).
 By passing already lit point, you put it out.
 Movement is 6-way directions:
-```
-Q  W  E
- \ | /
- / | \
+<div>
+Q  W  E<br />
+ \ | /<br />
+ / | \<br />
 A  S  D
-```
-
+</div>
 Power is SPACE, in which that point can not be put out.
 
 Score is determined on number of light points, remaining powers and time spent.
 Formula is:
-```
-(LIGNT_POINTS - 1) * 100
-IF( LIGNT_POINTS > 3) ADD (REMAINING_POWERS * 250)
-IF( VICTORY AND TIME_SPENT < 60s ) ADD ( (60s - TIME_SPENT) * 30 )
-```
+
+<div>
+(LIGNT_POINTS - 1) * 100<br />
+IF( LIGNT_POINTS > 3) ADD (REMAINING_POWERS * 250)<br />
+IF( VICTORY AND TIME_SPENT < 60s ) ADD ( (60s - TIME_SPENT) * 30 )<br />
+</div>
 
 I used HTML5 canvas as game environment, and since wanted to keep it minimalistic,
 wrote simple engine for game (no sprites, particles, and stuff).
