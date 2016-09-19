@@ -69,6 +69,10 @@
 	padding: 35px 30px 0px;
 }
 
+.card__container--closed .card__caption.dark {
+	background-color: rgba(1,1,1,0.45);
+}
+
 .card__container--closed .card__caption {
 	font-size: 1em;
 	max-width: auto;
