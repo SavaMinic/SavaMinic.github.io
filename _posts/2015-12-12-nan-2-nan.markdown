@@ -1,0 +1,37 @@
+---
+title:  "Nan 2 Nan combat"
+subtitle: "Nordeus (internal) Hackathon 2015"
+author: "Sava"
+avatar: "img/authors/sava.jpg"
+image: "img/nan2nan/header.jpg"
+header_style: dark
+date:   2015-12-12 12:12:12
+---
+
+### PLAY THE GAME : [Windows](https://drive.google.com/open?id=0B_YUM1pJMrsZN0NpaUo5eEdWaEU) [Mac](https://drive.google.com/open?id=0B_YUM1pJMrsZWkRZbjJTdXk0cW8)
+
+It's sale before Christmas time, everyone is rushing to get the best (and cheapest) presents for their loved ones.
+Entering the store, 2 nans are looking around to get something interesting for their grandchildren.
+
+Between them, in the center of the store, is the object of their desire, the Golden Bear. On SALE!
+How to solve this dispute other than fight to exhaustion, as winner takes all!
+
+<img class="def_image" src="/img/nan2nan/shot1.jpg" />
+
+Nan 2 Nan combat or "The golden bear" was done in 24h, as internal game jam, during [Nordeus Hackathon 2015](http://www.nordeushackathon.com/2015). The theme of the Jam was **"Fighting game, with collateral damage!"**, so we focused on environment damage and carnage all around the nans.
+
+It was 4 men team: [RomanI](https://www.facebook.com/roman.iglicar) (background art), [BorisL](https://www.facebook.com/boris.lowinger) (pixel art chars/items), [GuillemS](https://www.facebook.com/guillem.se) (sound/music) and me as developer.
+
+Very intense 24 hours with a lot of fun and goofing around, and at the end we got 2nd place. Congratz to the winners!
+
+<img class="def_image" src="/img/nan2nan/shot2.jpg" />
+
+**Controls:** <br />
+
+| Action | Left player (Ethel) |&nbsp;&nbsp;| Right player (Peggy) |
+|------|:-----------------------||-----------------------:|
+|jump|W||up arrow|
+|left|A||left arrow|
+|right|D||right arrow|
+|throw(when near the item)&nbsp;&nbsp;|S||down arrow|
+|kick|SPACE||slash (/) |
