@@ -16,25 +16,25 @@ I made team with [VoxelBoy](https://twitter.com/VoxelBoy), so the jamming could 
 
 <img class="def_image" src="/img/blackjack/shot1.jpg" />
 
-It's normal blackjack rules, but with ~~hookers~~ assistants.
-- you play blackjack, and gain/spend money as usual
-- you can "invest" your money to:
--- buy items - pimp your looks to jaw-dropping heights, increases your "coolness" 
--- unlock one of the "assistants" - which have their special powers
-- "coolness" decrease price of "assistants", so you need to prioritize
-- gain as much as you can before reaching zero, and then "CASH OUT" which will send the score to the leaderboard, but it restarts the game
-- gain eternal fame and glory by becoming the best on the leaderboard
+It's normal blackjack rules, but with ~~hookers~~ assistants.<br />
+- you play blackjack, and gain/spend money as usual<br />
+- you can "invest" your money to:<br />
+-- buy items - pimp your looks to jaw-dropping heights, increases your "coolness" <br />
+-- unlock one of the "assistants" - which have their special powers<br />
+- "coolness" decrease price of "assistants", so you need to prioritize<br />
+- gain as much as you can before reaching zero, and then "CASH OUT" which will send the score to the leaderboard, but it restarts the game<br />
+- gain eternal fame and glory by becoming the best on the leaderboard<br />
 
 <img class="def_image" src="/img/blackjack/shot2.jpg" />
 
-Each one has special power, and when you use it, it has cooldown before you can use it again.
-- **card counting** - you get current True count on decks ([Hi Lo card counting](http://casinogambling.about.com/od/blackjack/a/hilo.htm))
-- **distract the dealer** - in next dealing, he stands on 19 (normally he would stand on 17)
-- **double double down** - same rules as normal double down, but you increase 200% on initial bet
-- **card eater** - ignores the last dealt card (if card busted your hand, too bad, still can't save you)
-and ones with passive powers:
-- **queen of hearts** - for every queen of hearts in your hand, you get 69$ (she is rich, and she loves that card)
-- **lucky lady** - gives you advantage in push (instead of returning your bet, you get 150% of original bet)
-- **increase blackjack win** - instead of 3:2 payout when you have blackjack, it's 5:2
+Each one has special power, and when you use it, it has cooldown before you can use it again.<br />
+- **card counting** - you get current True count on decks ([Hi Lo card counting](http://casinogambling.about.com/od/blackjack/a/hilo.htm))<br />
+- **distract the dealer** - in next dealing, he stands on 19 (normally he would stand on 17)<br />
+- **double double down** - same rules as normal double down, but you increase 200% on initial bet<br />
+- **card eater** - ignores the last dealt card (if card busted your hand, too bad, still can't save you)<br />
+and ones with passive powers:<br />
+- **queen of hearts** - for every queen of hearts in your hand, you get 69$ (she is rich, and she loves that card)<br />
+- **lucky lady** - gives you advantage in push (instead of returning your bet, you get 150% of original bet)<br />
+- **increase blackjack win** - instead of 3:2 payout when you have blackjack, it's 5:2<br />
 
 More to come in upcoming DLCs :)
