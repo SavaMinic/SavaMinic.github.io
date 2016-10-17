@@ -1,0 +1,30 @@
+---
+title:  "Ultimate Behance Showdown"
+subtitle: "Belgrade Behance 2015"
+author: "Sava"
+avatar: "img/authors/sava.jpg"
+image: "img/behance2015/header.jpg"
+header_style: dark
+date:   2015-06-05 12:12:12
+---
+
+During [Belgrade Behance Reviews](https://www.facebook.com/belgradebehancereviews/) event, we from Nordeus wanted to engage the artists there and promote our company, by doing some live jamming on the site.
+
+Our main goal was to have visitors (artists) there involved in the game jamming itself, so after some brainstorming we decided to make a user content generated game. We didn't want to complicate our lives because the event was only 2 working days (hall was closed during the night), so we went with simple fighting game (Mortal Kombat style).
+
+Team was made out of [Dzoni](https://www.facebook.com/damjanmx) and [Vlada](https://www.facebook.com/vladimir.jankovic.5245) as artists, and [VoxelBoy](https://twitter.com/VoxelBoy), [DarkoV](https://www.facebook.com/darkovb) and myself as coders.
+
+
+<img class="def_image" src="/img/behance2015/shot1.jpg" />
+
+We made web app on the spot, and gave drawing boards and tablets to the audience passing by to draw their own character.
+
+Because we wanted to always show some fights on the screen, we decided to have automatic fighting, where players could just predefine their character's rock-paper-scissors sequence, and it would just use it against the opponent.
+
+Animations were generic so we just randonly loaded 2 fighers from the web app, loaded their graphics and matched their RPS sequence until someone hits 3 times. We didn't have time to implement proper tournamet and rankings, so it was all just random matches.
+
+<img class="def_image" src="/img/behance2015/shot3.jpg" />
+
+Events was super fun and interesting, meeting new people and game jamming on the live spot. We got about 40 fighters drawn by other people (even some kids), and it was very cool to see people enjoying it on the big screen.
+
+<img class="def_image" src="/img/behance2015/shot2.jpg" />
