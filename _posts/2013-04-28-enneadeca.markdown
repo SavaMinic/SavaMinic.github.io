@@ -1,7 +1,7 @@
 ---
 title:  "Enneadeca"
 subtitle: "Ludum Dare 26 - Minimalism"
-author: "Sava"
+author: "Sava Minić"
 avatar: "img/authors/sava.jpg"
 image: "img/enneadeca/header.jpg"
 date:   2013-04-28 12:12:12

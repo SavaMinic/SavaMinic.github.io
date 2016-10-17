@@ -216,6 +216,8 @@ span.error { color: red;}
 
 h3 a { margin: 0px 10px;}
 
+.footer { text-align: center; margin-bottom: 20px; }
+
 body {
 	font-family: Avenir, 'Helvetica Neue', 'Lato', 'Segoe UI', Helvetica, Arial, sans-serif;
 	line-height: 1.5;

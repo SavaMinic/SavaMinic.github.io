@@ -1,7 +1,7 @@
 ---
 title:  "Teamwork"
 subtitle: "Ludum Dare 35 - Shapeshift"
-author: "Sava"
+author: "Sava Minić"
 avatar: "img/authors/sava.jpg"
 image: "img/teamwork/header.jpg"
 header_style: dark

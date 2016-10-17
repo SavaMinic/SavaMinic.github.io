@@ -1,7 +1,7 @@
 ---
 title:  "Starvation"
 subtitle: "Ludum Dare 32 - An Unconventional Weapon"
-author: "Sava"
+author: "Sava Minić"
 avatar: "img/authors/sava.jpg"
 image: "img/starvation/header.jpg"
 header_style: dark

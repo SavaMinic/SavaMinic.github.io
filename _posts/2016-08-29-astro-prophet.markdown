@@ -1,7 +1,7 @@
 ---
 title:  "Astro Prophet"
 subtitle: "Ludum Dare 36 - Ancient Technology"
-author: "Sava"
+author: "Sava Minić"
 avatar: "img/authors/sava.jpg"
 image: "img/astro-prophet/header.jpg"
 header_style: dark

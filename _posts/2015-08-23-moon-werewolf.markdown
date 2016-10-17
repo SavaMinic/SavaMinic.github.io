@@ -1,7 +1,7 @@
 ---
 title:  "Moon werewolf"
 subtitle: "Ludum Dare 33 - You are the Monster"
-author: "Sava"
+author: "Sava Minić"
 avatar: "img/authors/sava.jpg"
 image: "img/moon-werewolf/header.jpg"
 date:   2015-08-23 12:12:12

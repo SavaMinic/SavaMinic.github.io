@@ -1,7 +1,7 @@
 ---
 title:  "Nan 2 Nan combat"
 subtitle: "Nordeus (internal) Hackathon 2015"
-author: "Sava"
+author: "Sava Minić"
 avatar: "img/authors/sava.jpg"
 image: "img/nan2nan/header.jpg"
 header_style: dark

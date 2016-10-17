@@ -1,7 +1,7 @@
 ---
 title:  "Blackjack & H**kers"
 subtitle: "Nordeus internal jam 2015"
-author: "Sava"
+author: "Sava Minić"
 avatar: "img/authors/sava.jpg"
 image: "img/blackjack/header.jpg"
 header_style: dark
