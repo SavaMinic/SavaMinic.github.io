@@ -5,3 +5,5 @@ keywords: game, games, game jam, ludum dare, prototypes, hackathon
 author: Sava Minic
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://sava.ninja/" # the base hostname & protocol for your site
+extlinks:
+  attributes: {target: _blank}

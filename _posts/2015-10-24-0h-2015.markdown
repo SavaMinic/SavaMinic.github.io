@@ -1,0 +1,25 @@
+---
+title:  "Connected worlds"
+subtitle: "0h game jam 2015"
+author: "Sava"
+avatar: "img/authors/sava.jpg"
+image: "img/0h2015/header.jpg"
+header_style: dark
+date:   2015-10-24 12:12:12
+---
+
+### PLAY THE GAME : [Windows](https://drive.google.com/open?id=0B_YUM1pJMrsZSmVnUUpLaktEYjA) [Mac](https://drive.google.com/open?id=0B_YUM1pJMrsZOGVsYWRwTXBzLVU) [Android](https://drive.google.com/open?id=0B_YUM1pJMrsZdEVscXE4SXVUZU0) [Source](https://github.com/SavaMinic/0hGame2015)
+
+This was very interesting experience, as ["0 hour game jame"](http://0hgame.eu/) says:<br />
+***During DST hour shift, we shift clocks backwards, so there's actually 1 hour between 2:00 am and 2:00 am. This is the best time in the year to make a game! Make a game in zero hours!***
+
+Since there is no time to prototype or even think about the gameplay, I just went with the first thing that popped on my mind.
+
+<img class="def_image" src="/img/0h2015/shot1.jpg" />
+
+*Uncover the ancient symbols, knowledge is one that matters.*<br />
+"**Connected worlds**" is kind of a memory game, where you need to memorize and reproduce one of the colors, and you will get "translation" of those symbols in a form of a haiku.
+
+Not done entirely in 0h :( <br />
+I created the barebone project files before the 2AM, then went to sleep, and wake up at 2:40AM :(
+I missed the mark for 3->2AM, and then left for an hour more.
