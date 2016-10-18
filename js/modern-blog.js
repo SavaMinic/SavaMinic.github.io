@@ -275,12 +275,14 @@ var demo = (function (window) {
             if (fromBlogCard) {
                 _playSequence.call(fromBlogCard, false, getIndex(fromBlogCard, isInstant));
             }
+            ga('send', 'event', 'NavigationFrom', 'click', fromId);
         }
         if (toId) {
             var toBlogCard = $('[' + ATTRIBUTES.id + '="' + toId + '"]')[0];
             if (toBlogCard) {
                 _playSequence.call(toBlogCard, true, getIndex(toBlogCard), isInstant);
             }
+            ga('send', 'event', 'NavigationTo', 'click', toId);
         }
     };
 

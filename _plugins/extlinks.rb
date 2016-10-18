@@ -55,6 +55,9 @@ module Jekyll
       return content unless doc
 
       doc.css('a').each do |a|
+        # add outbound tracking
+        a.add_attribute('onclick', 'return trackOutboundLink(this);')
+
         # If this is a local link don't change it
         next unless a.get_attribute('href') =~ /\Ahttp/i
 
