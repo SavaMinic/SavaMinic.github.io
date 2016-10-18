@@ -8,7 +8,7 @@ header_style: dark
 date:   2015-10-24 12:12:12
 ---
 
-### PLAY THE GAME : [Windows](https://drive.google.com/open?id=0B_YUM1pJMrsZSmVnUUpLaktEYjA) [Mac](https://drive.google.com/open?id=0B_YUM1pJMrsZOGVsYWRwTXBzLVU) [Android](https://drive.google.com/open?id=0B_YUM1pJMrsZdEVscXE4SXVUZU0) [Source](https://github.com/SavaMinic/0hGame2015)
+### PLAY THE GAME : [Windows](https://drive.google.com/open?id=0B_YUM1pJMrsZdGRzbk5Wd2xiV0U) [Mac](https://drive.google.com/open?id=0B_YUM1pJMrsZOGVsYWRwTXBzLVU) [Android](https://drive.google.com/open?id=0B_YUM1pJMrsZdEVscXE4SXVUZU0) [Source](https://github.com/SavaMinic/0hGame2015)
 
 This was very interesting experience, as ["0 hour game jame"](http://0hgame.eu/) says:<br />
 ***During DST hour shift, we shift clocks backwards, so there's actually 1 hour between 2:00 am and 2:00 am. This is the best time in the year to make a game! Make a game in zero hours!***
