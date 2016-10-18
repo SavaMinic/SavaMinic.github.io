@@ -1,0 +1,36 @@
+<h3 id="play-the-game--webhttpsdldropboxusercontentcomu53655251ludumdare26indexhtml-sourcehttpsgithubcomsavaminicenneadeca">PLAY THE GAME : <a href="https://dl.dropboxusercontent.com/u/53655251/LudumDare26/index.html">WEB</a> <a href="https://github.com/SavaMinic/enneadeca">Source</a></h3>
+
+<p><img class="def_image" src="/img/enneadeca/shot1.jpg" /></p>
+
+<p>My first entry to the Ludum Dare contest.
+I am very happy to see this game finished :)</p>
+
+<p>Light up the world by passing all its points without hitting death ( red circles ).
+By passing already lit point, you put it out.
+Movement is 6-way directions:</p>
+<div>
+Q  W  E<br />
+ \ | /<br />
+ / | \<br />
+A  S  D
+</div>
+<p>Power is SPACE, in which that point can not be put out.</p>
+
+<p>Score is determined on number of light points, remaining powers and time spent.
+Formula is:</p>
+
+<div>
+(LIGNT_POINTS - 1) * 100<br />
+IF( LIGNT_POINTS &gt; 3) ADD (REMAINING_POWERS * 250)<br />
+IF( VICTORY AND TIME_SPENT &lt; 60s ) ADD ( (60s - TIME_SPENT) * 30 )<br />
+</div>
+
+<p>I used HTML5 canvas as game environment, and since wanted to keep it minimalistic,
+wrote simple engine for game (no sprites, particles, and stuff).</p>
+
+<ul>
+  <li><a href="http://jquery.com/">jQuery</a></li>
+  <li><a href="https://github.com/sole/tween.js/">tween.js</a></li>
+  <li>Music loop is <a href="http://www.looperman.com/loops?gid=21">downloaded for free</a></li>
+  <li>No graphics :)</li>
+</ul>
