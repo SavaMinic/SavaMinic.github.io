@@ -7,7 +7,7 @@ image: "img/enneadeca/header.jpg"
 date:   2013-04-28 12:12:12
 ---
 
-### PLAY THE GAME : [WEB](https://dl.dropboxusercontent.com/u/53655251/LudumDare26/index.html) [Source](https://github.com/SavaMinic/enneadeca)
+### PLAY THE GAME : [WEB](http://sava.ninja/LudumDare26/index.html) [Source](https://github.com/SavaMinic/enneadeca)
 
 <img class="def_image" src="/img/enneadeca/shot1.jpg" />
 
