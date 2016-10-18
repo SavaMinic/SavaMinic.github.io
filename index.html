@@ -103,5 +103,12 @@ layout: compress
 <script src="js/vendors/cash.min.js"></script>
 <script src="js/card-modern-blog.js"></script>
 <script src="js/modern-blog.js"></script>
+<script type="text/javascript">
+    var links = document.getElementsByTagName("a");
+    for(var i = 0; i < links.length; i++){
+       links[i].setAtribute('target','_blank');
+       links[i].setAtribute('onclick','return trackOutboundLink(this);');
+    }
+</script>
 </body>
 </html>
