@@ -1,9 +1,0 @@
-# Site settings
-title: sava.ninja - Game Development by Sava Minić
-description: Check out Sava`s game jamming and making fun games for fun
-keywords: game, games, game jam, ludum dare, prototypes, hackathon, sava, sava minic
-author: Sava Minić
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://sava.ninja/" # the base hostname & protocol for your site
-extlinks:
-  attributes: {target: _blank}
