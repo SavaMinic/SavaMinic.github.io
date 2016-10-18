@@ -283,6 +283,7 @@ var demo = (function (window) {
                 _playSequence.call(toBlogCard, true, getIndex(toBlogCard), isInstant);
             }
             ga('send', 'event', 'NavigationTo', 'click', toId);
+            ga('send', 'pageview', toId);
         }
     };
 
