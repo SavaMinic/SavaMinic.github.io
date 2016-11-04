@@ -14,4 +14,4 @@ The participants create cloud functions to control virtual tanks, deploy them to
 <iframe src="https://player.vimeo.com/video/181349642?byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Our "Iron man" tank was hacked up solution of "Avengers": [Dusan Minic](https://www.facebook.com/dushanminic), [Mirko Francuski](https://www.facebook.com/mirko.francuski) and me.<br />
-We had a lot of fun, learned how AWS Lambda serverless functions and in the end, we won 2nd place!
+We had a lot of fun, learned how AWS Lambda serverless functions work, and after in the tournament, we won 2nd place!
