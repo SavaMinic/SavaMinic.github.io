@@ -1,0 +1,17 @@
+---
+title:  "Tank wars"
+subtitle: "Serverless Code Camp Belgrade"
+author: "Sava Minić"
+avatar: "img/authors/sava.jpg"
+image: "img/tankwars/header.jpg"
+header_style: dark
+date:   2016-09-03 12:12:12
+---
+
+Serverless Code Camp is a community event for software developers interested in migrating to serverless architectures, or learning more about modern cloud deployment architectures.<br />
+The participants create cloud functions to control virtual tanks, deploy them to serverless platforms such as AWS Lambda and Azure Functions, and wire them up to participate in a live tournament.
+
+<iframe src="https://player.vimeo.com/video/181349642?byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+Our "Iron man" tank was hacked up solution of "Avengers": [Dusan Minic](https://www.facebook.com/dushanminic), [Mirko Francuski](https://www.facebook.com/mirko.francuski) and me.<br />
+We had a lot of fun, learned how AWS Lambda serverless functions and in the end, we won 2nd place!
