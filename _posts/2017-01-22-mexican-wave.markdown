@@ -8,11 +8,11 @@ header_style: dark
 date:   2017-01-22 12:12:12
 ---
 
-### PLAY THE GAME : [WEB](http://sava.ninja/GGJ2017/) [Windows, Mac, Linux](http://ggj.s3.amazonaws.com/games/2017/01/22/1550/mexicanwave_ggj2017.zip) [Source](https://github.com/djcvijic/ggj2017)
+### PLAY THE GAME : [WEB](http://sava.ninja/GGJ2017/) [Windows + Mac + Linux](http://ggj.s3.amazonaws.com/games/2017/01/22/1550/mexicanwave_ggj2017.zip) [Source](https://github.com/djcvijic/ggj2017)
 
 Good old Global Game Jam is back, this time with the theme "Waves".
-Together with [DjordjeC](https://www.facebook.com/Junit8) as a coding buddy, we went through with the theme.
-
+Together with [DjordjeC](https://www.facebook.com/Junit8) as a coding buddy, we though about mexican waves.
+Shortly, this is a timing-based party game about blending in, for 1-8 players.
 
 <img class="def_image" src="/img/ggj2017/shot1.jpg" />
 
