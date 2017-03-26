@@ -1,0 +1,30 @@
+---
+title:  "Fast Food"
+subtitle: "Bad Box Art Challenge 2017"
+author: "Sava Minić"
+avatar: "img/authors/sava.jpg"
+image: "img/fastfood/screen2.jpg"
+header_style: dark
+date:   2017-03-26 12:12:12
+---
+
+### PLAY THE GAME : [WEB](http://sava.ninja/FastFood/) [Windows + Mac + Android](http://gamejolt.com/games/fastfood/245466) [Source](https://github.com/SavaMinic/badboxart2017)
+
+Sometimes a game's cover art is so bad that it seems to belong to an entirely different game. It makes you wonder what the game would have been like if it actually resembled the weird or terrible illustration that adorned its packaging.
+
+That's why there is ["Bad Box Art Challenge"](http://jams.gamejolt.io/badboxart2017), to create an original game based on pre-existing bad box art! Each entrant chooses a piece of art from our Gallery of Trash and has 72 hours to make an original game that actually resembles the box art.
+
+<img class="def_image" src="/img/fastfood/screen3.jpg" />
+
+I choose game ["Fast Food"](https://en.wikipedia.org/wiki/Fast_Food_(video_game)) for Atari 2600, made by Telesys in 1982 (wow, 7 years older than me). Box art for it was awesome, but too bad the technical limitations of Atari couldn't handle more colors.
+
+So I made complete reimagination of it, keeping up to the original box art as much as I could (i used some assets from it).
+<img class="def_image" src="/img/fastfood/screen1.jpg" />
+
+You have fast food (burgers, pizzas...) and healthy food (apples, cucumbers, ...) and you need to sort it all out. Basically a Tinder for food.
+Controls are : A/left arrow for trash can, D/right arrow for eating (or just tapping on left/right part of screen).
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/1Mleq-HKDYY?rel=0" frameborder="0" allowfullscreen></iframe>
+
+Play the game at [GameJolt](http://gamejolt.com/games/fastfood/245466), or directly in [browser](http://sava.ninja/FastFood/).
+
