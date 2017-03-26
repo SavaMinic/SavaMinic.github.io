@@ -3,7 +3,7 @@ title:  "Fast Food"
 subtitle: "Bad Box Art Challenge 2017"
 author: "Sava Minić"
 avatar: "img/authors/sava.jpg"
-image: "img/fastfood/screen2.jpg"
+image: "img/fastfood/header.jpg"
 header_style: dark
 date:   2017-03-26 12:12:12
 ---
@@ -14,7 +14,7 @@ Sometimes a game's cover art is so bad that it seems to belong to an entirely di
 
 That's why there is ["Bad Box Art Challenge"](http://jams.gamejolt.io/badboxart2017), to create an original game based on pre-existing bad box art! Each entrant chooses a piece of art from our Gallery of Trash and has 72 hours to make an original game that actually resembles the box art.
 
-<img class="def_image" src="/img/fastfood/screen3.jpg" />
+<img class="def_image" src="/img/fastfood/screen2.jpg" />
 
 I choose game ["Fast Food"](https://en.wikipedia.org/wiki/Fast_Food_(video_game)) for Atari 2600, made by Telesys in 1982 (wow, 7 years older than me). Box art for it was awesome, but too bad the technical limitations of Atari couldn't handle more colors.
 
