@@ -122,8 +122,11 @@ layout: compress
 <script src="js/vendors/TweenMax.min.js"></script>
 <script src="js/vendors/ScrollToPlugin.min.js"></script>
 <script src="js/vendors/cash.min.js"></script>
-<script src="js/card-modern-blog.js"></script>
-<script src="js/modern-blog.js"></script>
+<!-- <script src="js/card-modern-blog.js"></script>
+<script src="js/compressed.js"></script>-->
+<script type="text/javascript">
+    {% include compressed.js %}
+</script>
 <script type="text/javascript">
     var links = document.getElementsByTagName("a");
     for(var i = 0; i < links.length; i++){
