@@ -3,12 +3,45 @@ title:  "Araneus - Madness of the wicked one"
 subtitle: "Ludum Dare 38 - A small world"
 author: "Sava Minić"
 avatar: "img/authors/sava.jpg"
-image: "img/fastfood/header.jpg"
+image: "img/araneus/header.jpg"
 header_style: dark
 date:   2017-04-30 12:12:12
 ---
 
-### PLAY THE GAME : [Windows + Mac + Android](http://gamejolt.com/games/fastfood/245466)  [Source](https://github.com/SavaMinic/ld38)
+### PLAY THE GAME : [Windows + Mac](http://gamejolt.com/games/araneus/253259)  [Source](https://github.com/SavaMinic/ld38)
 
-WORK IN PROGRESS
+Although Ludum Dare 38 was special, as it was 15th birthday of this great event, I couldn't participate (i was travelling abroad).
+I organized myself to make a game for LD38 theme, "A small world" weekend after, just for my motivation.
 
+Here goes "Araneus : Madness of the wicked one" :)
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/9iUeeQPKHcA?rel=0" frameborder="0" allowfullscreen></iframe>
+
+Once upon a time,
+there was a great
+guitar player.
+HE WANTED TO BE THE BEST!
+
+He tried to play the forbidden song,
+but the DEMONS never rest.
+
+DEMOn from the hell AWOKEN,
+"WHO ARE YOU to BREAK MY SLUMBER?"
+"Be small and silent" -
+he said,
+"Let 8 be your number!"
+
+Into the spider he turned,
+no tongue to speak left.
+To have revenge,
+holy grenades he has to get!
+
+<img class="def_image" src="/img/araneus/shot1.jpg" />
+
+It was great feeling to do something not focused on mobiles (so don't caring about performance).
+Since i my modeling and composing skills are poor, I am very thankful authors providing free resources online:
+Music: [Tri-Tachyon - Hundred Years in Helheim](http://freemusicarchive.org/music/Tri-Tachyon/The_Spellbreaker_EP/Hundred_Years_in_Helheim)
+Spider model/animations: [3dhaupt](https://free3d.com/3d-model/spider-animated-low-poly-and-game-ready-87147.html)
+Other models: [archive3d.net](https://archive3d.net)
+
+<img class="def_image" src="/img/araneus/shot2.jpg" />
