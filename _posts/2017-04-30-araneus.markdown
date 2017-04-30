@@ -1,0 +1,14 @@
+---
+title:  "Araneus - Madness of the wicked one"
+subtitle: "Ludum Dare 38 - A small world"
+author: "Sava Minić"
+avatar: "img/authors/sava.jpg"
+image: "img/fastfood/header.jpg"
+header_style: dark
+date:   2017-04-30 12:12:12
+---
+
+### PLAY THE GAME : [Windows + Mac + Android](http://gamejolt.com/games/fastfood/245466)  [Source](https://github.com/SavaMinic/ld38)
+
+WORK IN PROGRESS
+
