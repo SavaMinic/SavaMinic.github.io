@@ -37,8 +37,8 @@ holy grenades he has to get!<br />
 
 <img class="def_image" src="/img/araneus/shot1.jpg" />
 
-It was great feeling to do something not focused on mobiles (so don't caring about performance).<br />
-Since i my modeling and composing skills are poor, I am very thankful authors providing free resources online:<br />
+It was great feeling to do something not focused on mobiles (basically, don't caring about performance that much).<br />
+Since my modeling and composing skills are poor, I am very thankful to the authors providing free resources online:<br />
 Music: [Tri-Tachyon - Hundred Years in Helheim](http://freemusicarchive.org/music/Tri-Tachyon/The_Spellbreaker_EP/Hundred_Years_in_Helheim)<br />
 Spider model/animations: [3dhaupt](https://free3d.com/3d-model/spider-animated-low-poly-and-game-ready-87147.html)<br />
 Other models: [archive3d.net](https://archive3d.net)<br />
