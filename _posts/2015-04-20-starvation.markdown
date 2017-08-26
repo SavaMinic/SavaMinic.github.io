@@ -1,10 +1,9 @@
 ---
+layout: post
 title:  "Starvation"
 subtitle: "Ludum Dare 32 - An Unconventional Weapon"
-author: "Sava Minić"
-avatar: "img/authors/sava.jpg"
-image: "img/starvation/header.jpg"
-header_style: dark
+author: savam
+image: "/img/starvation/header.jpg"
 date:   2015-04-20 12:12:12
 ---
 

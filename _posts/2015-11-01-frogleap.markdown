@@ -1,10 +1,9 @@
 ---
+layout: post
 title:  "Frog leap"
 subtitle: "Random jamming in Unity"
-author: "Sava Minić"
-avatar: "img/authors/sava.jpg"
-image: "img/frogleap/header.jpg"
-header_style: dark
+author: savam
+image: "/img/frogleap/header.jpg"
 date:   2015-11-01 12:12:12
 ---
 

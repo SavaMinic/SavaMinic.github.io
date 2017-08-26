@@ -1,9 +1,9 @@
 ---
+layout: post
 title:  "Mission CALIPSO"
 subtitle: "Ludum Dare 28 - You Only Get One"
-author: "Sava Minić"
-avatar: "img/authors/sava.jpg"
-image: "img/callisto/header.jpg"
+author: savam
+image: "/img/callisto/header.jpg"
 date:   2013-12-16 12:12:12
 ---
 

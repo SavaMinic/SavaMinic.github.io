@@ -1,10 +1,9 @@
 ---
+layout: post
 title:  "Blackjack & H**kers"
 subtitle: "Nordeus internal jam 2015"
-author: "Sava Minić"
-avatar: "img/authors/sava.jpg"
-image: "img/blackjack/header.jpg"
-header_style: dark
+author: savam
+image: "/img/blackjack/header.jpg"
 date:   2015-05-18 12:12:12
 ---
 

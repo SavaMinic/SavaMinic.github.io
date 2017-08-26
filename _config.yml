@@ -1,9 +1,65 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
 # Site settings
-title: Sava Minić - Game Development Ninja
-description: Check out Sava`s game jamming projects.
-keywords: sava minic, sava, game, games, game jam, ninja, ludum dare, prototypes, hackathon
-author: Sava Minić
-baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "http://sava.ninja" # the base hostname & protocol for your site
+title:            Sava Minić
+subtitle:         Game Development Ninja
+email:            minic.sava@gmail.com
+description:      Check out Sava Minic`s game jamming projects.
+baseurl:          '' # The subpath of your site, e.g. /blog
+url:              'http://sava.ninja' # The base hostname & protocol for your site
+github_username:  savaminic
+facebook_username: SavaMinic
+linkedin_name:    savaminic
+#twitter_username: aspirethemes
+
+markdown:  kramdown
+permalink: pretty
+paginate:  36
+
 extlinks:
   attributes: {target: _blank}
+
+gems:
+  - jekyll-paginate
+  - jekyll/tagging
+
+include:
+  - _pages
+
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+
+sass:
+  style: compressed
+
+# Tags
+tag_page_dir:         tag
+tag_page_layout:      tag_page
+tag_permalink_style:  pretty
+
+# Pages path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
+
+# Authors
+authors:
+  savam:
+    name:             Sava Minić - Game Developer
+    bio:              "Making games, playing games, getting sh*t done."
+    gravatar:         /img/authors/sava.jpg
+    email:            minic.sava@gmail.com
+    #website:          http://sava.ninja
+    github_username:  savaminic
+    facebook_username: SavaMinic
+    linkedin_name:    savaminic
+    #twitter_username: ahmadajmi

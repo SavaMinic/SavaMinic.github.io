@@ -1,10 +1,9 @@
 ---
+layout: post
 title:  "Astro Prophet"
 subtitle: "Ludum Dare 36 - Ancient Technology"
-author: "Sava Minić"
-avatar: "img/authors/sava.jpg"
-image: "img/astro-prophet/header.jpg"
-header_style: dark
+author: savam
+image: "/img/astro-prophet/header.jpg"
 date:   2016-08-29 12:12:12
 ---
 

@@ -1,10 +1,9 @@
 ---
+layout: post
 title:  "Connected worlds"
 subtitle: "0h game jam 2015"
-author: "Sava Minić"
-avatar: "img/authors/sava.jpg"
-image: "img/0h2015/header.jpg"
-header_style: dark
+author: savam
+image: "/img/0h2015/header.jpg"
 date:   2015-10-24 12:12:12
 ---
 

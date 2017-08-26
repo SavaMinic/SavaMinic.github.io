@@ -1,10 +1,9 @@
 ---
+layout: post
 title:  "Araneus - Madness of the wicked one"
 subtitle: "Ludum Dare 38 - A small world"
-author: "Sava Minić"
-avatar: "img/authors/sava.jpg"
-image: "img/araneus/header.jpg"
-header_style: dark
+author: savam
+image: "/img/araneus/header.jpg"
 date:   2017-04-30 12:12:12
 ---
 

@@ -1,10 +1,9 @@
 ---
-title:  "Sir, we're running out of power!"
+layout: post
+title: "Sir, we're running out of power!"
 subtitle: "Ludum Dare 39 - Running out of power"
-author: "Sava Minić"
-avatar: "img/authors/sava.jpg"
-image: "img/ld39/header.jpg"
-header_style: dark
+author: savam
+image: "/img/ld39/header.jpg"
 date:   2017-07-31 12:12:12
 ---
 

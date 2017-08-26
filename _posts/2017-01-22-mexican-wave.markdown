@@ -1,10 +1,9 @@
 ---
+layout: post
 title:  "Mexican wave"
 subtitle: "Global Game Jam 2017"
-author: "Sava Minić"
-avatar: "img/authors/sava.jpg"
-image: "img/ggj2017/header.jpg"
-header_style: dark
+author: savam
+image: "/img/ggj2017/header.jpg"
 date:   2017-01-22 12:12:12
 ---
 
