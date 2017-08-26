@@ -8,7 +8,7 @@
 # Site settings
 title:            Sava Minić
 subtitle:         Game Development Ninja
-email:            minic.sava@gmail.com
+#email:            minic.sava@gmail.com
 description:      Check out Sava Minic`s game jamming projects.
 baseurl:          '' # The subpath of your site, e.g. /blog
 url:              'http://sava.ninja' # The base hostname & protocol for your site
@@ -57,7 +57,7 @@ authors:
     name:             Sava Minić - Game Developer
     bio:              "Making games, playing games, getting sh*t done."
     gravatar:         /img/authors/sava.jpg
-    email:            minic.sava@gmail.com
+    #email:            minic.sava@gmail.com
     #website:          http://sava.ninja
     github_username:  savaminic
     facebook_username: SavaMinic
