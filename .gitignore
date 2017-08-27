@@ -49,4 +49,5 @@ _site
 .idea
 
 .jekyll-metadata
-.sass-cache/
+.sass-cache/*
+.sass-cache
