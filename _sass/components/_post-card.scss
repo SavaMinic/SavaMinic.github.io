@@ -27,6 +27,7 @@
       display: block;
       border-bottom: none;
       transition: $base-transition-speed;
+      text-decoration: none;
 
       &:hover { color: #a60505; }
     }
