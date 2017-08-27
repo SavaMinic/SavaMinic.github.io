@@ -15,4 +15,11 @@ layout: null
     <priority>1.0</priority>
   </url>
   {% endfor %}
+  {% for page in site.pages %}
+  <url>
+    <loc>{{ site.url }}{{ site.baseurl }}{{ page.url | remove: ".html" }}</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  {% endfor %}
 </urlset>
