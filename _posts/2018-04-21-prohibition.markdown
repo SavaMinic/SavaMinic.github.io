@@ -9,7 +9,7 @@ date:   2018-04-21 12:12:12
 
 ### PLAY THE GAME : [Windows + Mac](https://gamejolt.com/games/prohibition_tycoon/335270)  [Source](https://bitbucket.org/RusChe/ludumdare2018)
 
-Theme was this LD jam was super weird, so the game we made was also weird, because we wanted to make **Puzzle/sim + Text adventure**, kind of.
+Theme of LD41 jam was super weird, so the game we made was also weird, because we wanted to make **Puzzle/sim + Text adventure**, kind of.
 
 <img class="def_image" src="/img/prohibition/shot2.jpg" />
 
