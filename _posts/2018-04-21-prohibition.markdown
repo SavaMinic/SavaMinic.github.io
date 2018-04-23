@@ -27,4 +27,6 @@ Making a mistake and serving agent with alcohol led to prison, or even death.
 
 Made by: **Milos Dangubic**, **Aleksandar Ristic** and **me**
 
+<img class="def_image" src="/img/prohibition/shot3.jpg" />
+
 Using [Ink (by Inkle)](https://www.inklestudios.com/ink/) for dialogs.
