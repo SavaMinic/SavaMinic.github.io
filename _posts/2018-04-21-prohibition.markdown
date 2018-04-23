@@ -9,7 +9,9 @@ date:   2018-04-21 12:12:12
 
 ### PLAY THE GAME : [Windows + Mac](https://gamejolt.com/games/prohibition_tycoon/335270)  [Source](https://bitbucket.org/RusChe/ludumdare2018)
 
-<img class="def_image" src="/img/prohibition/shot1.jpg" />
+Theme was this LD jam was super weird, so the game we made was also weird, because we wanted to make **Puzzle/sim + Text adventure**, kind of.
+
+<img class="def_image" src="/img/prohibition/shot2.jpg" />
 
 In year 1920, United States were struck with alcohol prohibition.
 
@@ -21,7 +23,8 @@ Many heists of speakeasies made bartenders top class investigators, as they were
 
 Making a mistake and serving agent with alcohol led to prison, or even death.
 
-<img class="def_image" src="/img/prohibition/shot2.jpg" />
+<img class="def_image" src="/img/prohibition/shot1.jpg" />
 
-Made by: Milos Dangubic, Aleksandar Ristic and me
+Made by: **Milos Dangubic**, **Aleksandar Ristic** and **me**
+
 Using [Ink (by Inkle)](https://www.inklestudios.com/ink/) for dialogs.
