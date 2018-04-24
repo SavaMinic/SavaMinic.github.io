@@ -5,6 +5,10 @@ title: About
 
 Making games, playing games, getting sh*t done.<br />
 Game Developer @ [Nordeus](http://www.nordeus.com/)<br />
+
+<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+<script type="IN/MemberProfile" data-id="https://www.linkedin.com/in/savaminic" data-format="inline" data-related="false"></script>
+
 Contact: minic.sava <b>at</b> gmail.com
 
 <img src="/img/profile.jpg" />
