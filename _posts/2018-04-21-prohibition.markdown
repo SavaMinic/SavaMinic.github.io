@@ -23,12 +23,10 @@ Many heists of speakeasies made bartenders top class investigators, as they were
 
 Making a mistake and serving agent with alcohol led to prison, or even death.
 
-<img class="def_image" src="/img/prohibition/shot2.jpg" />
+<img class="def_image" src="/img/prohibition/shot1.jpg" />
 
 Made by: **Milos Dangubic**, **Aleksandar Ristic** and **me**
 
 <img class="def_image" src="/img/prohibition/shot3.jpg" />
 
 Using [Ink (by Inkle)](https://www.inklestudios.com/ink/) for dialogs.
-
-<img class="def_image" src="/img/prohibition/shot1.jpg" />
