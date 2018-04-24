@@ -11,7 +11,7 @@ date:   2015-08-23 12:12:12
 
 Full moon gives power to werewolves, so question is what would werewolf do on surface of moon? ;) 
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/GMJlEyinlGw?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/_QRJV2U7tfA?rel=0" frameborder="0" allowfullscreen></iframe>
 
 You are disguised as normal citizen (blue) hiding from guards (yellow), and you need to eat all citizens by transforming into werewolf (red). 
 

@@ -11,7 +11,7 @@ date:   2018-04-21 12:12:12
 
 Theme of LD41 jam was super weird, so the game we made was also weird, because we wanted to make **Puzzle/sim + Text adventure**, kind of.
 
-<img class="def_image" src="/img/prohibition/shot2.jpg" />
+<iframe width="640" height="360" src="https://www.youtube.com/embed/WviMydJiQ9E?rel=0" frameborder="0" allowfullscreen></iframe>
 
 In year 1920, United States were struck with alcohol prohibition.
 
@@ -23,10 +23,12 @@ Many heists of speakeasies made bartenders top class investigators, as they were
 
 Making a mistake and serving agent with alcohol led to prison, or even death.
 
-<img class="def_image" src="/img/prohibition/shot1.jpg" />
+<img class="def_image" src="/img/prohibition/shot2.jpg" />
 
 Made by: **Milos Dangubic**, **Aleksandar Ristic** and **me**
 
 <img class="def_image" src="/img/prohibition/shot3.jpg" />
 
 Using [Ink (by Inkle)](https://www.inklestudios.com/ink/) for dialogs.
+
+<img class="def_image" src="/img/prohibition/shot1.jpg" />
