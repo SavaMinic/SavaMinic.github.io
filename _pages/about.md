@@ -9,7 +9,9 @@ Game Developer @ [Nordeus](http://www.nordeus.com/)<br />
 Contact: minic.sava <b>at</b> gmail.com
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="savaminic"><a class="LI-simple-link" href='https://rs.linkedin.com/in/savaminic?trk=profile-badge'>Sava Minić</a></div>
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="savaminic"><a class="LI-simple-link" href='https://rs.linkedin.com/in/savaminic?trk=profile-badge'>Sava Minić</a></div>
+
+<br />
 
 <div class="column small-12 large-12">
 Check out my social media:
