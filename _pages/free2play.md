@@ -20,7 +20,7 @@ Inspired by "5 in a line" kind of games, for example <a href='http://vsg.quasiho
 except it's going to have kind of progression where by: <br /> <b>... getting high scores -> you will get reward points -> you use to level up color elements -> they give you more points during playing -> you getting more high scores ...</b>
 
 I plan to make only basic leaderboards, and releasing on Android and iOS. Maybe I will check the app size for Facebook Instant games, but that's a stretch :p<br />
-Game should be easily re-skinnable, because I plan to test multiple art themes (animas, flowers, robots, candies ...) with same gameplay.
+Game should be easily re-skinnable, because I plan to test multiple art themes (animals, flowers, robots, candies ...) with same gameplay.
 
 <br />
 <i>TO BE CONTINUED...</i>
