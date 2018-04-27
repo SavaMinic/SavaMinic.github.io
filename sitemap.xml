@@ -6,9 +6,9 @@ layout: null
   {% for post in site.posts %}
   <url>
     <loc>{{ site.url }}{{ site.baseurl }}{{ post.url | remove: ".html" }}</loc>
-    {% if post.lastmod == null %}
+    {% if post.date != null %}
     <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
-    {% else %}
+    {% else if post.lastmod != null %}
     <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
     {% endif %}
     <changefreq>weekly</changefreq>
