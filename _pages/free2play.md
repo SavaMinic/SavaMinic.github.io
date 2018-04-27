@@ -21,3 +21,6 @@ except it's going to have kind of progression where by: <br /> <b>... getting hi
 
 I plan to make only basic leaderboards, and releasing on Android and iOS. Maybe I will check the app size for Facebook Instant games, but that's a stretch :p<br />
 Game should be easily re-skinnable, because I plan to test multiple art themes (animas, flowers, robots, candies ...) with same gameplay.
+
+<br />
+<i>TO BE CONTINUED...</i>
