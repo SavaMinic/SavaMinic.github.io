@@ -10,6 +10,7 @@ I want to go through whole process of it, from development to release and tweaki
 <a href='https://www.freepik.com/free-vector/flat-animal-heads-set_715458.htm'>Icons by Freepik</a>
 <br />
 
+<hr />
 <h2>GAME IDEA - 28.4.2018.</h2>
 
 It's going to be very casual game with endless highscore level, without timers but with rewards progression (more you play, better score multiplier you get).
@@ -22,5 +23,12 @@ except it's going to have kind of progression where by: <br /> <b>... getting hi
 I plan to make only basic leaderboards, and releasing on Android and iOS. Maybe I will check the app size for Facebook Instant games, but that's a stretch :p<br />
 Game should be easily re-skinnable, because I plan to test multiple art themes (animals, flowers, robots, candies ...) with same gameplay.
 
-<br />
+<hr />
+<h2>FIRST PROTOTYPE - 28.4.2018.</h2>
+
+<img style="margin: auto; display: block;" src="{{ site.baseurl }}/img/f2p/day1.gif" width="200px" />
+Started coding already, having map with element generation, pathfinding and animated movement.<br />
+Continuing to work on new element generation, matching 5-in-row check and calculating points.
+
+<hr />
 <i>TO BE CONTINUED...</i>
