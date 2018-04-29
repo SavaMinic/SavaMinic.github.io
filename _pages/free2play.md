@@ -1,6 +1,7 @@
 ---
 layout: page
 title: free2play experiment
+important: true
 ---
 
 <style>
