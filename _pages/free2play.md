@@ -21,6 +21,7 @@ UPDATES tldr;
 -> <a class="important" href="#idea">IDEA</a>
 -> <a class="important" href="#prototype">PROTOTYPE</a>
 -> <a class="important" href="#playable">PLAYABLE</a>
+-> <a class="important" href="#levels">LEVELS MAP</a>
 <hr />
 <h2 id="idea">GAME IDEA - 28.4.2018.</h2>
 
@@ -58,6 +59,23 @@ Now I need to add proper goal in the game, possible multiple modes:<br />
 - Map (collection of different modes and maybe different levels)<br />
 <br />
 After that, there should be some rewards after you beat the level, which should be used for upgrading.
+
+<hr />
+<h2 id="levels">PLAYABLE WITH LEVELS - 30.4.2018.</h2>
+
+<a class="important" href="{{ site.baseurl }}/farm_lines/build_2/" target="_blank_">
+<img style="margin: auto; display: block;" src="{{ site.baseurl }}/img/f2p/day3.gif" width="200px" />
+PLAY SECOND PLAYABLE HERE</a><br />
+
+Added endless mode with high score, and implement dump level generation with multiple modes (trying to give variety to game):<br />
+- Target score<br />
+- Target score with turns limit<br />
+- Target score with time limit<br />
+, and difficulty goes up as you progress (it's no balanced at all), and it requires level up elements to get to those scores.<br />
+
+Next thing is to add "Element collection" mode (both normal, turns, timed), and possibly some blocked tiles on map (for variety).<br />
+
+Tomorrow is May 1st, so Happy International Workers' Day, rest and chill out with your frinds :D
 
 <hr />
 <i>TO BE CONTINUED...</i>
