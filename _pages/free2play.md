@@ -15,14 +15,14 @@ important: true
 <style>
 hr { background-color: #333;}
 .important { font-weight: bold; }
-img.b-lazy { margin: auto; display: block; }
+img.b-lazy , img.center { margin: auto; display: block; }
 </style>
 
 Today is April 28th, and this will be the place where I will blog my experience of releasing free2play mobile game in 1 week.
 <br />
 
-I want to go through whole process of it, from development to release and tweaking, and since I'm not an artist I will be using free graphic assets.<br />
-<a href='https://www.freepik.com/free-vector/flat-animal-heads-set_715458.htm'>Icons by Freepik</a>
+I want to go through whole process of it, from development to release and tweaking, and since I'm not an artist I will be using <a class="important" href="#authors">free graphic assets</a>., authors atributed at the end of this page<br />
+
 <br />
 
 <hr />
@@ -31,13 +31,14 @@ UPDATES tldr;
 -> <a class="important" href="#prototype">PROTOTYPE</a>
 -> <a class="important" href="#playable">PLAYABLE</a>
 -> <a class="important" href="#levels">LEVELS MAP</a>
+-> <a class="important" href="#endless">ENDLESS</a>
 <hr />
 <h2 id="idea">GAME IDEA - 28.4.2018.</h2>
 
 It's going to be very casual game with endless highscore level, without timers but with rewards progression (more you play, better score multiplier you get).
 <br />
 
-<img style="margin: auto; display: block;" src="{{ site.baseurl }}/img/f2p/color-lines.png" width="200px" />
+<img class="center" src="{{ site.baseurl }}/img/f2p/color-lines.png" width="200px" />
 Inspired by "5 in a line" kind of games, for example <a href='http://vsg.quasihome.com/lines/index.html' target='\_blank'>Color lines</a>,<br />
 except it's going to have kind of progression where by: <br /> <b>... getting high scores -> you will get reward points -> you use to level up color elements -> they give you more points during playing -> you getting more high scores ...</b>
 
@@ -101,8 +102,31 @@ Next thing is to add "Element collection" mode (both normal, turns, timed), and 
 
 Tomorrow is May 1st, so Happy International Workers' Day, rest and chill out with your frinds :D
 
+
+<hr />
+<h2 id="endless">ENDLESS MODE - 1.5.2018.</h2>
+
+<a class="important" href="{{ site.baseurl }}/farm_lines/build_3/" target="_blank_">
+<img class="center" src="{{ site.baseurl }}/img/f2p/day4.png" width="200px" />
+PLAY THIRD PLAYABLE HERE</a><br />
+
+It was a slow day because of celebrating International Workers' Day, but managed to get in the music and end game sfx.<br />
+
+Started to work on progression meta with endless mode, added basic UI layout, but didn't have time to put in the game logic for it.<br />
+Tomorrow will focus more on meta itself, how the loop goes around core experience, but still keeping it simple.
+
 <hr />
 <i>TO BE CONTINUED...</i>
+<hr />
+
+<h2 id="authors">Free images provided by:</h2>
+<a href='https://www.freepik.com/free-vector/flat-animal-heads-set_715458.htm'>Icons by Freepik</a>
+
+<div>Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Coin">Coin</a> from <a href="https://www.flaticon.com/"     title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/"     title="Creative Commons BY 3.0" target="_blank_">CC 3.0 BY</a></div>
+
+<div>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank_">CC 3.0 BY</a></div>
+
+<br />
 <hr />
 
 <small>
