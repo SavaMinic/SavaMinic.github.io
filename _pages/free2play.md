@@ -4,9 +4,18 @@ title: free2play experiment
 important: true
 ---
 
+<script src="{{ site.baseurl }}/js/blazy.min.js"></script>
+<script>
+    ;(function() {
+        // Initialize
+        var bLazy = new Blazy();
+    })();
+</script>
+
 <style>
 hr { background-color: #333;}
 .important { font-weight: bold; }
+img.b-lazy { margin: auto; display: block; }
 </style>
 
 Today is April 28th, and this will be the place where I will blog my experience of releasing free2play mobile game in 1 week.
@@ -38,7 +47,12 @@ Game should be easily re-skinnable, because I plan to test multiple art themes (
 <hr />
 <h2 id="prototype">FIRST PROTOTYPE - 28.4.2018.</h2>
 
-<img style="margin: auto; display: block;" src="{{ site.baseurl }}/img/f2p/day1.gif" width="200px" />
+<img class="b-lazy"
+     src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+     data-src="{{ site.baseurl }}/img/f2p/day1.gif"
+     width="200px"
+     alt="first prototype"
+/>
 Started coding already, having map with element generation, pathfinding and animated movement.<br />
 Continuing to work on new element generation, matching 5-in-row check and calculating points.
 
@@ -47,7 +61,12 @@ Continuing to work on new element generation, matching 5-in-row check and calcul
 <h2 id="playable">FIRST PLAYABLE - 29.4.2018.</h2>
 
 <a class="important" href="{{ site.baseurl }}/farm_lines/build_1/" target="_blank_">
-<img style="margin: auto; display: block;" src="{{ site.baseurl }}/img/f2p/day2.gif" width="200px" />
+<img class="b-lazy"
+     src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+     data-src="{{ site.baseurl }}/img/f2p/day2.gif"
+     width="200px"
+     alt="first playable"
+/>
 PLAY FIRST PLAYABLE HERE</a><br />
 You can play endless game now, until you are bored or until there is no empty spaces.<br />I was focusing on juiciness of the game also, so there are lot of animations and easing stuff going on during movement, explosion and spawning of animals.<br />
 There is main menu, just as placeholder, to feel the flow of the game.<br />
@@ -64,7 +83,12 @@ After that, there should be some rewards after you beat the level, which should 
 <h2 id="levels">PLAYABLE WITH LEVELS - 30.4.2018.</h2>
 
 <a class="important" href="{{ site.baseurl }}/farm_lines/build_2/" target="_blank_">
-<img style="margin: auto; display: block;" src="{{ site.baseurl }}/img/f2p/day3.gif" width="200px" />
+<img class="b-lazy"
+     src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+     data-src="{{ site.baseurl }}/img/f2p/day3.gif"
+     width="200px"
+     alt="playable with levels"
+/>
 PLAY SECOND PLAYABLE HERE</a><br />
 
 Added endless mode with high score, and implement dump level generation with multiple modes (trying to give variety to game):<br />
