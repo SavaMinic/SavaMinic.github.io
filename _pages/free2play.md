@@ -117,7 +117,7 @@ Started to work on progression meta with endless mode, added basic UI layout, bu
 Tomorrow will focus more on meta itself, how the loop goes around core experience, but still keeping it simple.
 
 <hr />
-<h2 id="endless">LEVEL UP - 2.5.2018.</h2>
+<h2 id="levelup">LEVEL UP - 2.5.2018.</h2>
 
 <a class="important" href="{{ site.baseurl }}/farm_lines/build_4/" target="_blank_">
 <img class="b-lazy"
