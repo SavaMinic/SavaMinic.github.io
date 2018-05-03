@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+date:   2018-05-01 12:12:12
 ---
 
 Making games, playing games, getting sh*t done.<br />

@@ -27,8 +27,10 @@ layout: null
         {% if page.name != '404.md' %}
           <item>
             <title>{{ page.title | xml_escape }}</title>
+            <pubDate>{{ page.date | date_to_rfc822 }}</pubDate>
             <description>{{ page.content | xml_escape }}</description>
             <link>{{ page.url | prepend: site.baseurl | prepend: site.url }}</link>
+            <guid isPermaLink="true">{{ page.url | prepend: site.baseurl | prepend: site.url }}</guid>
           </item>
         {% endif %}
       {% endif %}

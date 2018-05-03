@@ -2,6 +2,7 @@
 layout: page
 title: free2play experiment
 important: true
+date:   2018-05-03 09:12:12
 ---
 
 <script src="{{ site.baseurl }}/js/blazy.min.js"></script>
