@@ -17,9 +17,10 @@ date:   2018-05-03 09:12:12
 hr { background-color: #333;}
 .important { font-weight: bold; }
 img.b-lazy , img.center { margin: auto; display: block; }
+.strike { text-decoration:line-through; }
 </style>
 
-Today is April 28th, and this will be the place where I will blog my experience of releasing free2play mobile game in 1 week.
+Today is April 28th, and this will be the place where I will blog my experience of releasing free2play mobile game in <span class="strike">1 week</span> 7 working days.
 <br />
 
 I want to go through whole process of it, from development to release and tweaking, and since I'm not an artist I will be using <a class="important" href="#authors">free graphic assets</a>., authors atributed at the end of this page<br />
