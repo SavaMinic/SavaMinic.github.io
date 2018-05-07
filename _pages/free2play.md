@@ -34,6 +34,7 @@ UPDATES tldr;
 -> <a class="important" href="#levels">LEVELS MAP</a>
 -> <a class="important" href="#endless">ENDLESS</a>
 -> <a class="important" href="#levelup">LEVEL UP</a>
+-> <a class="important" href="#week1">FIRST WEEK</a>
 <hr />
 <h2 id="idea">GAME IDEA - 28.4.2018.</h2>
 
@@ -133,6 +134,26 @@ Another half day of work only, managed to put in the level up of animals, gettin
 I was setting up the meta/progression loop, the plan is to get coins from milestones in endless, and some animals will have some coins on them.<br />In order to level up animals, you need to spend coins, and also progress through the map story, which will consists of multiple regions (spring, summer, fall, winter) with additional mechanics (frozen animals, flower obstacles and such).
 
 <hr />
+<h2 id="week1">FIRST WEEK - 6.5.2018.</h2>
+
+<a class="important" href="{{ site.baseurl }}/farm_lines/build_5/" target="_blank_">
+<img class="b-lazy"
+     src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+     data-src="{{ site.baseurl }}/img/f2p/week1.gif"
+     width="200px"
+     alt="leveling up animals"
+/>
+PLAY FIFTH PLAYABLE HERE</a><br />
+
+Working after work proved to be very slow, almost imposibruuu, so game had to wait for the weekend.<br />In order to keep the score down, I removed the story part of the game, and focused just on endless (with a hint of decoration shop).<br />
+
+Base game is done, I need couple more days to wrap up the things:<br />
+- basic sfx ingame and buttons<br />
+- integrate login with facebook, and fb friends<br />
+- simple backend for saving scores<br />
+- ad integration for getting coins
+
+<hr />
 <i>TO BE CONTINUED...</i>
 <hr />
 
@@ -144,6 +165,10 @@ I was setting up the meta/progression loop, the plan is to get coins from milest
 <div>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank_">CC 3.0 BY</a></div>
 
 <div>Icons made by <a href="https://www.flaticon.com/authors/dave-gandy" title="Dave Gandy">Dave Gandy</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank_">CC 3.0 BY</a></div>
+
+<div>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank_">CC 3.0 BY</a></div>
+
+<div>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank_">CC 3.0 BY</a></div>
 
 <div>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank_">CC 3.0 BY</a></div>
 
