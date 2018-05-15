@@ -36,6 +36,7 @@ UPDATES tldr;
 -> <a class="important" href="#endless">ENDLESS</a>
 -> <a class="important" href="#levelup">LEVEL UP</a>
 -> <a class="important" href="#week1">FIRST WEEK</a>
+-> <a class="important" href="#update" style="font-size:24px">UPDATE</a>
 <hr />
 <h2 id="idea">GAME IDEA - 28.4.2018.</h2>
 
@@ -153,6 +154,14 @@ Base game is done, I need couple more days to wrap up the things:<br />
 - integrate login with facebook, and fb friends<br />
 - simple backend for saving scores<br />
 - ad integration for getting coins
+
+<hr />
+<h2 id="update">UPDATE - 15.5.2018.</h2>
+
+Sorry for not writing here, i was busy with my day job, and some personal issues, I managed to grab couple of hours of implementation only in the last 10 days.<br />
+Tried Firebase as backend-as-service solution for login and leaderboards, which failed because firebase database doesn't have any filtering options, at least not in the way I wanted.<br />
+Will try PlayFab for the weekend, and hopefully manage to finish the integration, so I can start preparing for launch (dev accounts, store pages, mini website).
+
 
 <hr />
 <i>TO BE CONTINUED...</i>
