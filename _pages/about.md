@@ -73,7 +73,7 @@ Check out my social media:
 <div id="mc_embed_signup">
 <form action="https://ninja.us4.list-manage.com/subscribe/post?u=b7e7ae4a6d8a5b371606caeee&amp;id=3615c41148" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank_" novalidate>
     <div id="mc_embed_signup_scroll">
-	<label for="mce-EMAIL">Subscribe to our mailing list</label>
+	<label for="mce-EMAIL">Get updated on my new games :)</label>
 	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_b7e7ae4a6d8a5b371606caeee_3615c41148" tabindex="-1" value=""></div>
