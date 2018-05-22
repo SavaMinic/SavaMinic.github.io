@@ -1,0 +1,13 @@
+{
+"companyName": "sava.ninja",
+"productName": "Farm Lines",
+"dataUrl": "AnimalLinesLatest.data.unityweb",
+"asmCodeUrl": "AnimalLinesLatest.asm.code.unityweb",
+"asmMemoryUrl": "AnimalLinesLatest.asm.memory.unityweb",
+"asmFrameworkUrl": "AnimalLinesLatest.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

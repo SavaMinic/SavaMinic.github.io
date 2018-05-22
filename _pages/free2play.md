@@ -37,6 +37,7 @@ UPDATES tldr;
 -> <a class="important" href="#levelup">LEVEL UP</a>
 -> <a class="important" href="#week1">FIRST WEEK</a>
 -> <a class="important" href="#update" style="font-size:24px">UPDATE</a>
+-> <a class="important" href="#leaderboards">LEADERBOARDS</a>
 <hr />
 <h2 id="idea">GAME IDEA - 28.4.2018.</h2>
 
@@ -153,7 +154,7 @@ Base game is done, I need couple more days to wrap up the things:<br />
 - basic sfx ingame and buttons<br />
 - integrate login with facebook, and fb friends<br />
 - simple backend for saving scores<br />
-- ad integration for getting coins
+- ads integration for getting coins
 
 <hr />
 <h2 id="update">UPDATE - 15.5.2018.</h2>
@@ -161,6 +162,22 @@ Base game is done, I need couple more days to wrap up the things:<br />
 Sorry for not writing here, i was busy with my day job, and some personal issues, I managed to grab couple of hours of implementation only in the last 10 days.<br />
 Tried Firebase as backend-as-service solution for login and leaderboards, which failed because firebase database doesn't have any filtering options, at least not in the way I wanted.<br />
 Will try PlayFab for the weekend, and hopefully manage to finish the integration, so I can start preparing for launch (dev accounts, store pages, mini website).
+
+<hr />
+<h2 id="leaderboards">LEADERBOARDS - 22.5.2018.</h2>
+
+<a class="important" href="{{ site.baseurl }}/farm_lines/build_6/" target="_blank_">
+<img class="center" src="{{ site.baseurl }}/img/f2p/day6.png" width="200px" />
+PLAY SIXTH PLAYABLE HERE</a><br />
+
+Finally, managed to get some uninterrupted time after work to continue making this, finished integrating <a href="https://playfab.com/" target="_blank_">PlayFab API</a>, which is backend-as-service solution, and I'm using it for login, leaderboards, analytics and saving player progress.<br />
+
+Last things which I would like to do this week are:<br />
+- integrating with facebook and having fb friends in leaderboards<br />
+- basic sfx ingame and buttons<br />
+- preparing for launch (dev accounts, store pages, mini website)<br />
+
+I'm dropping ads integration for initial version, let's just release it like this, and afterwards I will see what's next on the list :)
 
 
 <hr />
