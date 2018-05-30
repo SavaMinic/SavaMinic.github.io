@@ -18,7 +18,7 @@
           <ul class="list-bare text-center">
             {% for page in site.pages %}
               {% unless page.name == '404.md' %}
-                {% if page.title %}
+                {% if page.title and page.hidden == undefined %}
                   <li>
                     <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">
                       {% if page.important %}<b>{% endif %}
@@ -87,7 +87,9 @@
       <div class="sidebar__bottom">
         <div class="column small-12 large-12">
           <div class="font-tiny">
-            &copy; {{ site.time | date: '%Y' }} {{ site.title }}
+            &copy; {{ site.time | date: '%Y' }} {{ site.title }} <br />
+            <a style="margin-right: 10px" href="{{ 'privacy.html' | prepend: site.baseurl }}">Privacy policy</a>
+            <a href="{{ 'terms.html' | prepend: site.baseurl }}">Terms of service</a>
           </div>
         </div>
       </div>
