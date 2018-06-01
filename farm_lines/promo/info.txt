@@ -1,0 +1,9 @@
+Connect 4 animal in the line, be smart and raise your animals.
+
+New awesome puzzle game is here!
+- Connect 4 animals in the line
+- Score points and set high scores
+- Raise your animals to get even more points
+- Compete with players all around the world
+
+New features coming very soon. Expect shop and watching ads for points boost.

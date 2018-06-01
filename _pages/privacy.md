@@ -32,5 +32,5 @@ date:   2018-05-30 09:12:12
 <br />
 <div class='innerText'>If there are any questions regarding this privacy policy, you may contact us using the information below.</div>
 <div class='innerText'>https://sava.ninja</div>
-<div class='innerText'>minic.sava@gmai.com</div><div class='innerText'><br>Last Edited on 2018-05-30
+<div class='innerText'>minic.sava@gmail.com</div><div class='innerText'><br>Last Edited on 2018-05-30
 </div>
