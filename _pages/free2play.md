@@ -191,7 +191,7 @@ or
 <a href="{{ site.baseurl }}/farm_lines/build_7" target="_blank_">try last debug version</a> :)
 
 I managed to find time today to wrap up some bugs and add some more music, and start preparing for release.<br />
-Android went smoothly, just created Google Play page images and screenshots, built the apk, uploaded it and that was it, ANIMAL LINES WERE LIVE! :) <br />
+Android went smoothly, just created Google Play page images and screenshots, built the apk, uploaded it and that was it, FARM LINES WERE LIVE! :) <br />
 For iOS, I registered for Developer account, payed with the card, and it's still in progress (status says - up to 2 days). <br />
 After that, I will release the game on App Store also.<br />
 <br />
