@@ -20,7 +20,7 @@ img.b-lazy , img.center { margin: auto; display: block; }
 .strike { text-decoration:line-through; }
 </style>
 
-Today is April 28th, and this will be the place where I will blog my experience of releasing free2play mobile game in <span class="strike">1 week</span> <span class="strike">7 working days</span> 14 working days.
+Today is April 28th, and this will be the place where I will blog my experience of releasing free2play mobile game in <span class="strike">1 week</span> <span class="strike">7 working days</span> 10 working days spread over a month.
 <br />
 
 I want to go through whole process of it, from development to release and tweaking, and since I'm not an artist I will be using <a class="important" href="#authors">free graphic assets</a>., authors atributed at the end of this page<br />
