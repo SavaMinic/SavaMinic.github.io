@@ -149,7 +149,7 @@ I was setting up the meta/progression loop, the plan is to get coins from milest
 />
 PLAY FIFTH PLAYABLE HERE</a><br />
 
-Working after work proved to be very slow, almost imposibruuu, so game had to wait for the weekend.<br />In order to keep the score down, I removed the story part of the game, and focused just on endless (with a hint of decoration shop).<br />
+Working after work proved to be very slow, almost imposibruuu, so game had to wait for the weekend.<br />In order to keep the scope down, I removed the story part of the game, and focused just on endless (with a hint of decoration shop).<br />
 
 Base game is done, I need couple more days to wrap up the things:<br />
 - basic sfx ingame and buttons<br />
