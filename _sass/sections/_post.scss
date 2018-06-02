@@ -40,3 +40,13 @@
 
   &-content { margin-top: $line-height__medium; }
 }
+
+span.notice {
+  background-color: #5fc710;
+  font-size: 12px;
+  color: #fff;
+  padding: 5px;
+  border-radius: 10px;
+  margin: 0 5px;
+  font-weight: bold;
+}

@@ -20,7 +20,7 @@ img.b-lazy , img.center { margin: auto; display: block; }
 .strike { text-decoration:line-through; }
 </style>
 
-Today is April 28th, and this will be the place where I will blog my experience of releasing free2play mobile game in <span class="strike">1 week</span> 7 working days.
+Today is April 28th, and this will be the place where I will blog my experience of releasing free2play mobile game in <span class="strike">1 week</span> <span class="strike">7 working days</span> 14 working days.
 <br />
 
 I want to go through whole process of it, from development to release and tweaking, and since I'm not an artist I will be using <a class="important" href="#authors">free graphic assets</a>., authors atributed at the end of this page<br />
@@ -38,6 +38,7 @@ UPDATES tldr;
 -> <a class="important" href="#week1">FIRST WEEK</a>
 -> <a class="important" href="#update" style="font-size:24px">UPDATE</a>
 -> <a class="important" href="#leaderboards">LEADERBOARDS</a>
+-> <br /><br />  <a class="important" style="font-size:48px;" href="#release">RELEASED</a>
 <hr />
 <h2 id="idea">GAME IDEA - 28.4.2018.</h2>
 
@@ -181,7 +182,29 @@ I'm dropping ads integration for initial version, let's just release it like thi
 
 
 <hr />
-<i>TO BE CONTINUED...</i>
+<h2 id="release">FINALLY RELEASED - 2.6.2018.</h2>
+
+<a class="important" href="{{ site.baseurl }}/farm_lines/" target="_blank_">
+<img class="center" src="{{ site.baseurl }}/farm_lines/promo/feature.png" width="400px" />
+PLAY IT ON ANDROID AND IOS</a><br />
+or
+<a href="{{ site.baseurl }}/farm_lines/build_7" target="_blank_">try last debug version</a> :)
+
+I managed to find time today to wrap up some bugs and add some more music, and start preparing for release.<br />
+Android went smoothly, just created Google Play page images and screenshots, built the apk, uploaded it and that was it, ANIMAL LINES WERE LIVE! :) <br />
+For iOS, I registered for Developer account, payed with the card, and it's still in progress (status says - up to 2 days). <br />
+After that, I will release the game on App Store also.<br />
+<br />
+Facebook integration, friends leaderboards, and possibly ads will go into some other version.<br />
+Decorations and shop are strech for now :p
+
+<hr />
+<h2 style="font-weight:bold; line-height: 35px;">
+CONCLUSION:<br />Since this whole thing didn't go as planned, as amount of additional distractions and badly planned personal life, at the end I released a game in a month (and not in a week).<br />
+I learned a lot during this interesting experiment, and I know next time it will go much better and efficient.<br />
+All the best :D
+</h2>
+
 <hr />
 
 <h2 id="authors">Free images provided by:</h2>
