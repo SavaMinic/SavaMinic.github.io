@@ -8,4 +8,5 @@ date:   2018-06-01 08:12:12
 redirect: /farm_lines
 ---
 
-EMPTY
+<meta http-equiv="refresh" content="0; url=https://sava.ninja/farm_lines" />
+<p><a href="https://sava.ninja/farm_lines">Redirect</a></p>
