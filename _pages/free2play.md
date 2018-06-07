@@ -198,6 +198,10 @@ After that, I will release the game on App Store also.<br />
 Facebook integration, friends leaderboards, and possibly ads will go into some other version.<br />
 Decorations and shop are strech for now :p
 
+<b>UPDATE: game is now released on both <a target="_blank_" href="https://play.google.com/store/apps/details?id=ninja.sava.farmlines" title="Farm Lines on Android">Android</a> and <a target="_blank_" href="https://itunes.apple.com/us/app/farm-lines-match-4-animals/id1394763863?ls=1&mt=8" title="Farm Lines on iPhone">iOS</a> stores. Have fun :)</b><br />
+App Store review was finished in less than 24h, which was wtf because I expected at least couple of days (up to a week).<br />
+Nothing spectacular happened there, expect that there is still no App Store for Serbia, so I had to register an Croatian account, which works (at least for games without IAPs). Next stop: make a game with IAPs :)
+
 <hr />
 <h2 style="font-weight:bold; line-height: 35px;">
 CONCLUSION:<br />Since this whole thing didn't go as planned, as amount of additional distractions and badly planned personal life, at the end I released a game in a month (and not in a week).<br />
