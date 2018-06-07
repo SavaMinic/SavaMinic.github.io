@@ -187,8 +187,6 @@ I'm dropping ads integration for initial version, let's just release it like thi
 <a class="important" href="{{ site.baseurl }}/farm_lines/" target="_blank_">
 <img class="center" src="{{ site.baseurl }}/farm_lines/promo/feature.png" width="400px" />
 PLAY IT ON ANDROID AND IOS</a><br />
-or
-<a href="{{ site.baseurl }}/farm_lines/build_7" target="_blank_">try last debug version</a> :)
 
 I managed to find time today to wrap up some bugs and add some more music, and start preparing for release.<br />
 Android went smoothly, just created Google Play page images and screenshots, built the apk, uploaded it and that was it, FARM LINES WERE LIVE! :) <br />
