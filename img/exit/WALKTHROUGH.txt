@@ -1,0 +1,35 @@
+WALKTHROUGH:
+
+Watch start cinematic.
+Pick up keys from the table in front of
+Exit your office.
+Interact with exit door behind you - fingerprint scanner will not work. Click X.
+[ Rotate around, see robot, although we didn't have time to add interaction with her. ]
+
+Press SPACE to open inventory, right click on mobile phone, left click on the right part to mix it in.
+Go to IT office, just next to exit door on your right.
+Pick up battery on the the right.
+Go back to hall, and go down the hall.
+Enter marketing office on the right.
+Interact with jacket to pick up door keys.
+Go back to hall.
+Interact with locked door to UX office.
+Right click on door key, left click on door lock to unlock it.
+Go in UX office, pick up cables behind you on the floor.
+Press SPACE to open inventory.
+Add cables and battery to the mix on the right, and click COMBINE - you get contraption for hacking doors.
+
+Go back to hall and then down the hall to the exit door.
+Interact with exit door, use the hacking contraption with the fingerprint scanner.
+Lights will go out, robot will disappear.
+[Didn't have time to add interaction with robot where she goes crazy and starts looking for something, and goes away]
+
+You need to find another door.
+Go down the hall, and then go to marketing office on the right (room with jacket).
+On the right, there is one more door.
+Interact with them, use hacking device on that fingerprint scanner, doors are unlocked.
+Go in the door, listen to the robot talking to you, doors are locked.
+[Didn't have time to implement hiding from robot, searching for more items]
+
+Interact with Dragance in the room.
+Watch end cinematic.
