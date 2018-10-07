@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Seekers in Darkness"
+subtitle: "The Micro-RPG Jam"
+author: savam
+image: "/img/seekers/header.jpg"
+date:   2018-10-07 18:12:12
+---
+
+### PLAY THE GAME : [Rules](https://savam.itch.io/seekers-in-darkness)
+
+This was first time I enrolled into making a tabletop RPG game in 48h, with additional limit of 200 words for the rules.
+It was very challenging and fun experience as the hard limit really pushed on making decisions.<br />
+
+Theme was ["The sun is dead"](https://itch.io/jam/micro-rpg-jam), which immediately inspired me in direction of frozen planet, remains of civilization surviving in underground colonies, with harsh and dangerous environment.<br />
+
+I wanted to have both setting, skills, fights, some weapons and enemies, and setup for first scenario.
+In just 200 words, I had to make a lot of compromises :p<br />
+
+<img class="def_image" src="/img/seekers/shot1.jpg" />
+
+<i>The sun is dead.<br /><br />
+200 years ago, remains of humanity sheltered into underground colonies, harnessing the energy of Earth’s core.<br /><br />
+Only the fittest Seekers travel between distant colonies, exploring the lethal surface.<br />
+</i>
+
+Rest of the rules can be found [HERE](https://savam.itch.io/seekers-in-darkness)
