@@ -1,0 +1,69 @@
+The sun is dead. 200 years ago, remains of humanity sheltered into underground colonies, harnessing the energy of Earth’s core.
+Only the fittest Seekers travel between distant colonies, exploring the lethal surface.
+
+Attributes:
+Physical
+Mental
+0-100, distribute 150 points
+
+Speed (meters) = (physical + mental) / 10
+Protective gear (PG): 0-100, start 80
+Light: 20m
+
+SKILLS:
+distribute 5,5,10,10,15
+CHECK: d20, success value under skill
+Default instant
+---------------------------------------------
+Shooting
+---------------------------------------------
+----- Shoot
+---------------------------------------------
+Psychology
+---------------------------------------------
+----- Motivate, party +SKILL mental, MOTIVATED (2H cooldown)
+----- Intimidate, Charm, Persuasion
+---------------------------------------------
+Mechanical tech
+---------------------------------------------
+----- Repair weapons/tools, d4H
+----- Repair PG, +SKILL, d4H
+---------------------------------------------
+Electrical tech
+---------------------------------------------
+----- Repair vehicle/electronics d4H
+---------------------------------------------
+Medicine
+---------------------------------------------
+----- Med-kit, +3xSKILL, 1H
+----- Stabilize, +d10, STABILIZED (1H cooldown)
+---------------------------------------------
+
+Rest: +2d20 mental
+
+Initiative: highest mental
+Turn: 1 action, 1 move
+HEX (2 meters)
+
+To hit:
+Ranged (shooting), melee (physical)
+Damage: per weapon
+50% PG, 50% physical
+-d6 mental per damaged
+
+UNPROTECTED
+Dmg 100% physical, -10 physical/mental every hour
+
+Vehicle 60kmph, 5% break chance 1h
+
+Weapon / Damage / Range
+Rifle 4d10 60
+Knife d10 melee
+Claws d20 melee
+
+Name / physical mental / weapon
+Mutated blind dog, 120, 20, 2 claws
+Outlaw, 80, 60, shooting 13, rifle
+
+Redford colony signal lost. Investigate. OVER.
+[Packs of dogs out. Outlaws inside.]
