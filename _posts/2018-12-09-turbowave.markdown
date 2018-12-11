@@ -25,12 +25,12 @@ Check out what we made in 24h, drinking water and eating kiflice :) <br />
 <iframe width="640" height="360" src="https://www.youtube.com/embed/N0edM-58KaU?rel=0" frameborder="0" allowfullscreen></iframe>
 
 Since Unity ECS isn't supporting Mecanim animations out-of-the-box, we had to do our simple animations by hand. We tried animating from shaders, but we had better results animating by translation/rotation/scale from code (job systems). <br />
- <br />
- We wanted to show progression of scale, starting from only one stadium level, and increasing levels and number of entities while you are playing around. <br /> <br />
+
+ We wanted to show progression of scale, starting from only one stadium level, and increasing levels and number of entities while you are playing around. <br />
  We added also demo scene, where you could just be amazed with 100k entities making Mexican waves on stadium, animating their arms and having bloom and focus effects (it works on mobile in constant 30fps also).
 
 <hr />
-Using ECS was straightforward, we started a week before game jam, exploring their work-in-progress docs and running samples in Unity, wrapping our heads around data oriented programming. <br /> <br />
+Using ECS was straightforward, we started a week before game jam, exploring their <a href="https://github.com/Unity-Technologies/EntityComponentSystemSamples/blob/master/Documentation/reference/index.md">work-in-progress docs</a> and running samples in Unity, wrapping our heads around data oriented programming. <br />
 
 We decided to keep the scope down, and wait for theme announcement when game jam start in order to plan up the game. But at the end, there was no specific theme at the game jam, so we went with bunch of ideas, wanting to show both small scale and big scale. <br />
 
