@@ -38,3 +38,7 @@ It was very fun and interesting experience, expecially trying out Unity ECS, whi
 <br />
 If you want to try it for <b>Android</b>, you can [download APK from this link.](https://drive.google.com/open?id=17GppKnmgNF0KX2lmvTsLSUbYUHqPzBrh)<br />
 If you want to try it for <b>iOS (iPhone/iPad)</b>, you can sign up for [TestFlight build here](https://savaminic.typeform.com/to/wphzx9) and test it on device.
+<br />
+
+Here you can see how it runs on iPhone8:
+<iframe width="640" height="360" src="https://www.youtube.com/embed/lZqDsWwn3cc?rel=0" frameborder="0" allowfullscreen></iframe>
