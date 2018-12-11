@@ -29,6 +29,20 @@ Since Unity ECS isn't supporting Mecanim animations out-of-the-box, we had to do
  We wanted to show progression of scale, starting from only one stadium level, and increasing levels and number of entities while you are playing around. <br /> <br />
  We added also demo scene, where you could just be amazed with 100k entities making Mexican waves on stadium, animating their arms and having bloom and focus effects (it works on mobile in constant 30fps also).
 
+<hr />
+Using ECS was straightforward, we started a week before game jam, exploring their work-in-progress docs and running samples in Unity, wrapping our heads around data oriented programming. <br /> <br />
+
+We decided to keep the scope down, and wait for theme announcement when game jam start in order to plan up the game. But at the end, there was no specific theme at the game jam, so we went with bunch of ideas, wanting to show both small scale and big scale. <br />
+
+<div>
+<img style="display: inline-block" src="/img/turbowave/step0.png" width="150px" />
+<img style="display: inline-block" src="/img/turbowave/step1.gif" width="150px" />
+<img style="display: inline-block" src="/img/turbowave/step2.gif" width="150px" />
+<img style="display: inline-block" src="/img/turbowave/step3.gif" width="150px" />
+</div><br />
+
+Football was one of the things that came to our mind, so we mocked up fast idea of fans making mexican waves on stadium, and as you progress, stadium and your influence increases, or something like that. Proper gameplay we left for later, until we have the system working with animating characters and generating waves. <br />
+
 <img class="def_image" src="/img/turbowave/shot3.jpg" />
 
 Made by: **[Nikola Damjanov](https://www.linkedin.com/in/nikoladamjanov/)**, **[Aleksandar Paunović](https://www.linkedin.com/in/salepaun/)**, **[Miloš Kruškonja](https://www.linkedin.com/in/milos-kruskonja/)** and **me**
