@@ -24,7 +24,7 @@ paginate:  36
 extlinks:
   attributes: {target: _blank}
 
-gems:
+plugins:
   - jekyll-paginate
   - jekyll/tagging
   - jekyll-sitemap
