@@ -7,7 +7,7 @@ image: "/img/turbowave/header.jpg"
 date:   2018-12-09 13:12:12
 ---
 
-### PLAY : [Mac](https://drive.google.com/open?id=1WkRfZ_4_L9cMywfN-2t4nUpf3Dblz72I) [Windows](https://drive.google.com/open?id=1-wk153OeoNXIe6H6nKee3koh7UTyNAka) [Android](https://drive.google.com/open?id=17GppKnmgNF0KX2lmvTsLSUbYUHqPzBrh) [iPhone](https://savaminic.typeform.com/to/wphzx9) [Source](https://github.com/SavaMinic/ImpactHubRandomTeam)
+### PLAY : [Mac](https://drive.google.com/open?id=1WkRfZ_4_L9cMywfN-2t4nUpf3Dblz72I) [Windows](https://drive.google.com/open?id=1-wk153OeoNXIe6H6nKee3koh7UTyNAka) [Android](https://drive.google.com/open?id=17GppKnmgNF0KX2lmvTsLSUbYUHqPzBrh) [iPhone](https://testflight.apple.com/join/GDtl5LqV) [Source](https://github.com/SavaMinic/ImpactHubRandomTeam)
 
 [Serbian Games Association](http://sga.rs/) (SGA) joined forces with Unity, in order to promote their new tech stack [ECS](https://unity3d.com/unity/features/job-system-ECS) - Entity/Component/System, by organizing the 24h game jam.
 There was no specific theme, just the goal was **Using ECS to make games on a different scale**.
