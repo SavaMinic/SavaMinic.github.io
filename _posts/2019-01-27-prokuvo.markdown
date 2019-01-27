@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "Prokuvo"
+subtitle: "Global Game Jam 2019"
+author: savam
+image: "/img/prokuvo/header.jpg"
+date:   2019-01-27 13:12:12
+---
+
+### PLAY : [PLAY ONLINE](https://sava.ninja/Prokuvo) [Win/Mac](https://globalgamejam.org/2019/games/prokuvo) [Source](https://github.com/SavaMinic/VeteraniIndustrije)
+
+One more Global Game Jam, one more awesome weekend, this time with theme:
+
+**<center>WHAT HOME MEANS TO YOU</center>**
+
+The best thing about GGJ is working with people you never worked before, sharing ideas together and having fun while jamming. This year I joined forces with game jam veterans **[Nothke](https://twitter.com/Nothke/)** and **[Stihilus](https://twitter.com/Stihilus)** :)
+
+Basically, the theme seemed like a personal thing/feeling of "home", so we wanted to make it comical - and then we came up with idea of Slava (Serbian Saint celebration) with tradional Serbian family and never-ending line of guests coming in.
+
+Premise was:<br />
+<i>It's The Slava time, your family, friends and neighbours are coming into your home, to feast and drink in honours of your patron Saint. Be the best host and make their time enjoyable.</i>
+
+<img class="def_image" src="/img/prokuvo/shot1.jpg" />
+
+It's 2 player game, which also **works with controllers**.<br />
+First player: w/a/s/d + space<br />
+Second player: i/j/k/l + p
+
+And you can pick up items in order to fulfill guest's wishes.<br />
+Some items are very simple, like rakija or sarma, some are little complex, like filling glass with water, and some are very complex: coffee requires water and then coffee into the pot to brew.<br />
+Also guests have their preference for TV station and windows (PROMAJA is the real thing in Serbia).
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/mZ5qv8ogVMw?rel=0" frameborder="0" allowfullscreen></iframe>
+
+We had a lot of fun thinking of what makes traditional Serbian Saint celebration (Slava), but couldn't put a lot more ideas, such as cooked wheat and bread. At least there is rakija.<br />
+
+<div>
+<img style="display: inline-block" src="/img/prokuvo/step1.gif" width="350px" />
+<img style="display: inline-block" src="/img/prokuvo/step2.gif" width="350px" />
+<img style="display: inline-block" src="/img/prokuvo/step3.gif" width="350px" />
+<img style="display: inline-block" src="/img/prokuvo/step4.gif" width="350px" />
+</div>
+
+Made by: **[Nothke](https://twitter.com/Nothke/)**, **[Stihilus](https://twitter.com/Stihilus)** and **me**<br />
+All thanks to **[Ranko Trifkovic](https://twitter.com/RankoTrifkovic)** who organized Belgrade Global Game Jame :D
