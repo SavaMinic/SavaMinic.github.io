@@ -9,8 +9,8 @@ date:   2019-10-06 23:35:12
 
 ### PLAY : [PLAY ONLINE](https://sava.ninja/polacelo-0.1/) [Win/Mac](https://gamejolt.com/dashboard/games/443252/packages/452135) [Source](https://github.com/SavaMinic/polacelo)
 
-Although I was planning to do this Ludum Dare for the whole weekend, my cousin and nephew visited from my from home town, so I had only Sunday evening to mock something up. <br />
-This year theme was:
+Although I was planning to do this Ludum Dare for the whole weekend, some family stuff got into the way. <br />
+I had only Sunday evening to mock something up, which is cool because of the Ludum Dare theme:
 
 **<center>START WITH NOTHING</center>**
 <br />
@@ -22,4 +22,4 @@ Winners get both cards. <br />
 <img class="def_image" src="/img/polacelo/shot1.jpg" />
 </div>
 
-Check the game on  **[Ludum Dare](https://ldjam.com/events/ludum-dare/45/half-or-full)** website :D
+[PLAY THE GAME HERE](https://sava.ninja/polacelo-0.1/), or give feedback on **[Ludum Dare website](https://ldjam.com/events/ludum-dare/45/half-or-full)** website :D
