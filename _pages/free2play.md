@@ -2,6 +2,7 @@
 layout: page
 title: free2play experiment
 important: true
+hidden: true
 date:   2018-05-03 09:12:12
 ---
 
