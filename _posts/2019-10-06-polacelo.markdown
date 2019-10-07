@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "HALF or FULL"
+subtitle: "Ludum Dare 45 - Start with nothing"
+author: savam
+image: "/img/polacelo/header.jpg"
+date:   2019-10-06 23:35:12
+---
+
+### PLAY : [PLAY ONLINE](https://sava.ninja/polacelo-0.1/) [Win/Mac](https://gamejolt.com/dashboard/games/443252/packages/452135) [Source](https://github.com/SavaMinic/polacelo)
+
+Although I was planning to do this Ludum Dare for the whole weekend, my cousin and nephew visited from my from home town, so I had only Sunday evening to mock something up. <br />
+This year theme was:
+
+**<center>START WITH NOTHING</center>**
+<br />
+Classic card skill game we played when we were young. <br />
+The opponent chooses “HALF” or “FULL” while holding a card, while you try to hit the card and make both cards fall on the same side or opposite (depending on what opponent has chosen). <br />
+Winners get both cards. <br />
+
+<div>
+<img class="def_image" src="/img/polacelo/shot1.jpg" />
+</div>
+
+Check the game on  **[Ludum Dare](https://ldjam.com/events/ludum-dare/45/half-or-full)** website :D
