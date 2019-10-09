@@ -7,7 +7,7 @@ image: "/img/polacelo/header.jpg"
 date:   2019-10-06 23:35:12
 ---
 
-### PLAY : [PLAY ONLINE](https://sava.ninja/polacelo-0.1/) [iOS (TestFlight)](https://testflight.apple.com/join/yWCDpYpw) [Win/Mac](https://gamejolt.com/games/halforfull/443252) [Source](https://github.com/SavaMinic/polacelo)
+### PLAY : [PLAY ONLINE](https://sava.ninja/polacelo-0.1/) [iOS](https://apps.apple.com/us/app/half-or-full/id1482583873) [Win/Mac](https://gamejolt.com/games/halforfull/443252) [Source](https://github.com/SavaMinic/polacelo)
 
 Although I was planning to do this Ludum Dare for the whole weekend, some family stuff got into the way :p .<br />
 I had only Sunday evening to mock something up, which is cool because of the Ludum Dare theme:
