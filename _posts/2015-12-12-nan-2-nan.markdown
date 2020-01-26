@@ -15,9 +15,11 @@ Entering the store, 2 nans are looking around to get something interesting for t
 Between them, in the center of the store, is the object of their desire, the Golden Bear. On SALE!
 How to solve this dispute other than fight to exhaustion, as winner takes all!
 
-<img class="def_image" src="/img/nan2nan/shot1.jpg" />
+<iframe width="640" height="360" src="https://www.youtube.com/embed/cAjPdxykdvo?rel=0" frameborder="0" allowfullscreen></iframe>
 
 Nan 2 Nan combat or "The golden bear" was done in 24h, as internal game jam, during [Nordeus Hackathon 2015](http://www.nordeushackathon.com/2015). The theme of the Jam was **"Fighting game, with collateral damage!"**, so we focused on environment damage and carnage all around the nans.
+
+<img class="def_image" src="/img/nan2nan/shot1.jpg" />
 
 It was 4 men team: [RomanI](https://www.facebook.com/roman.iglicar) (background art), [BorisL](https://www.facebook.com/boris.lowinger) (pixel art chars/items), [GuillemS](https://www.facebook.com/guillem.se) (sound/music) and me as developer.
 
