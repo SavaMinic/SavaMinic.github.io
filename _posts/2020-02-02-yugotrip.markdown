@@ -16,7 +16,7 @@ This year theme was:
 
 I joined forces with amazing jammers from last year, **[Nothke](https://twitter.com/Nothke/)** and **[Stihilus](https://twitter.com/Stihilus)** , but also we had help from young **[Subiicus](https://twitter.com/subiicus)** , future Game dev star :)
 
-We had some problems with coming up with an idea for the game, that we all were hyped about, but after exhausting Friday night we come up with this premise:
+We had some problems with coming up with an idea for the game (that we all were hyped about), but after exhausting Friday night we come up with this premise:
 "Trip through Yugoslavia in the '80s. Repair your relationship. Repair your Yugo."<br />
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/cgE18CAI0z4?rel=0" frameborder="0" allowfullscreen></iframe>
@@ -35,11 +35,11 @@ There are 3 big areas:<br >
 
 Stihilus did awesome job with both 3d props (as amazing as Yugo can be), trees, signs and other stuff, but also with 2d art - which represents your married couple trying to remember their past, and if both of them pick the right memory, their relationship improves.<br />
 
-<img class="def_image" src="/img/yugotrip/shot1.jpg" />
+<img class="def_image" src="/img/yugotrip/shot3.jpg" />
 
 When Yugo gets broken, it's job for 2 to pick the parts and repair the Yugo, so you can continue your journey towards Adriatic, hoping to repair your relationship.<br />
 
-<img class="def_image" src="/img/yugotrip/shot3.jpg" />
+<img class="def_image" src="/img/yugotrip/shot1.jpg" />
 
 I had an amazing time working on this game jam, and feel really happy to be part of the growing Global Game Jam community in Belgrade (and the world).<br />
 It was a very productive game jam, as you can see the progress we had.
