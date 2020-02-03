@@ -4,7 +4,7 @@ title:  "YugoTrip"
 subtitle: "Global Game Jam 2020"
 author: savam
 image: "/img/yugotrip/header.jpg"
-date:   2019-02-02 18:12:12
+date:   2020-02-02 18:12:12
 ---
 
 ### PLAY : [Win/Mac](https://globalgamejam.org/2020/games/yugo-trip-0) [Source](https://github.com/Subicus/YugoTrip)
