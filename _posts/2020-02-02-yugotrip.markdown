@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "YugoTrip"
+subtitle: "Global Game Jam 2020"
+author: savam
+image: "/img/yugotrip/header.jpg"
+date:   2019-02-02 18:12:12
+---
+
+### PLAY : [Win/Mac](https://globalgamejam.org/2020/games/yugo-trip-0) [Source](https://github.com/Subicus/YugoTrip)
+
+This year Global Game Jam in Belgrade was record-breaking one, with 22 teams and little more than 100 jammers. It was held in 2 locations, but games presentations were done in the same space, which was awesome. Big thanks to **[Ranko Trifkovic](https://twitter.com/RankoTrifkovic)**, and also **[Nordeus Hub](https://www.facebook.com/nordeushub/)** and **[StartIt](https://www.facebook.com/startitcentar/)** for hosting the event.
+
+This year theme was:
+**<center>REPAIR</center>**
+
+I joined forces with amazing jammers from last year, **[Nothke](https://twitter.com/Nothke/)** and **[Stihilus](https://twitter.com/Stihilus)** , but also we had help from young **[Subiicus](https://twitter.com/subiicus)** , future Game dev star:)
+
+We had some problems with coming up with idea for the game, that we all were hyped about, but after exhausting Friday night we come up with this premise:
+"Trip through Yugoslavia in 80's. Repair your relationship. Repair your Yugo."<br />
+
+<iframe width="640" height="360" src="https://youtu.be/cgE18CAI0z4?rel=0" frameborder="0" allowfullscreen></iframe>
+
+We completely went nuts with [Yugo nostalgia](https://en.wikipedia.org/wiki/Yugo), and later even added music from that era into the game (Thanks YouTube :D). <br />
+
+So basically, it's game for 2 players, a married couple with marriage problems, travelling from Belgrade to Adriatic sea, hoping to repair their estranged relationship, but also repairing their Yugo car which breaks all the time. <br />
+
+Nothke outdid himself by making different parts of the levels, which then combine into a bigger level so every run is the different. There are 3 big areas: Serbia (from [Genex Tower](https://en.wikipedia.org/wiki/Western_City_Gate)), over Drina river, through Bosnia, to [Mostar bridge](https://en.wikipedia.org/wiki/Stari_Most), and then to Croatia coastline toward the final destination - amazing [Adriatic sea](https://en.wikipedia.org/wiki/Adriatic_Sea).<br />
+
+<img class="def_image" src="/img/yugotrip/shot1.jpg" />
+
+Stihilus did awesome job with both 3d props (as amazing as Yugo can be), trees, signs and other stuff, but also with 2d art - which represents your married couple trying to remember their past, and if both of them pick the right memory, their relationship improves.<br />
+
+<img class="def_image" src="/img/yugotrip/shot2.jpg" />
+
+When Yugo gets broken, it's job for 2 to pick the parts and repair the Yugo, so you can continue your journey towards Adriatic, hoping to repair your relationship.<br />
+
+<img class="def_image" src="/img/yugotrip/shot3.jpg" />
+
+I had an amazing time working on this game jam, and feel really happy to be part of growing Global Game Jam community in Belgrade (and world).<br />
+It was very productive game jam, as you can see the progress we had.
+<div>
+<img style="display: inline-block" src="/img/yugotrip/step1.gif" width="350px" />
+<img style="display: inline-block" src="/img/yugotrip/step2.gif" width="350px" />
+<img style="display: inline-block" src="/img/yugotrip/step3.gif" width="350px" />
+<img style="display: inline-block" src="/img/yugotrip/step4.gif" width="350px" />
+<img style="display: inline-block" src="/img/yugotrip/step5.gif" width="350px" />
+<img style="display: inline-block" src="/img/yugotrip/step6.gif" width="350px" />
+<img style="display: inline-block" src="/img/yugotrip/step7.gif" width="350px" />
+<img style="display: inline-block" src="/img/yugotrip/step8.gif" width="350px" />
+</div>
