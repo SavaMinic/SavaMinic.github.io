@@ -7,7 +7,7 @@ image: "/img/yugotrip/header.jpg"
 date:   2020-02-02 18:12:12
 ---
 
-### PLAY : [Win/Mac](https://globalgamejam.org/2020/games/yugo-trip-0) [Source](https://github.com/Subicus/YugoTrip)
+### PLAY : [Win/Mac](https://ggj.s3.amazonaws.com/games/2020/02/285438/exec/OixeA/YugoTrip.zip) [GGJ page](https://globalgamejam.org/2020/games/yugo-trip-0) [Source](https://github.com/Subicus/YugoTrip)
 
 This year Global Game Jam in Belgrade was record-breaking one, with 22 teams and little more than 100 jammers. It was held in 2 locations, but games presentations were done in the same space, which was awesome. Big thanks to **[Ranko Trifkovic](https://twitter.com/RankoTrifkovic)**, and also **[Nordeus Hub](https://www.facebook.com/nordeushub/)** and **[StartIt](https://www.facebook.com/startitcentar/)** for hosting the event.
 
@@ -31,11 +31,11 @@ There are 3 big areas:<br >
 - through Bosnia, to [Mostar bridge](https://en.wikipedia.org/wiki/Stari_Most),
 - and then to Croatia coastline toward the final destination - amazing [Adriatic sea](https://en.wikipedia.org/wiki/Adriatic_Sea).<br />
 
-<img class="def_image" src="/img/yugotrip/shot1.jpg" />
+<img class="def_image" src="/img/yugotrip/shot2.jpg" />
 
 Stihilus did awesome job with both 3d props (as amazing as Yugo can be), trees, signs and other stuff, but also with 2d art - which represents your married couple trying to remember their past, and if both of them pick the right memory, their relationship improves.<br />
 
-<img class="def_image" src="/img/yugotrip/shot2.jpg" />
+<img class="def_image" src="/img/yugotrip/shot1.jpg" />
 
 When Yugo gets broken, it's job for 2 to pick the parts and repair the Yugo, so you can continue your journey towards Adriatic, hoping to repair your relationship.<br />
 
@@ -46,9 +46,9 @@ It was very productive game jam, as you can see the progress we had.
 <div>
 <img style="display: inline-block" src="/img/yugotrip/step1.gif" width="350px" />
 <img style="display: inline-block" src="/img/yugotrip/step2.gif" width="350px" />
-<img style="display: inline-block" src="/img/yugotrip/step3.gif" width="350px" />
-<img style="display: inline-block" src="/img/yugotrip/step4.gif" width="350px" />
 <img style="display: inline-block" src="/img/yugotrip/step5.gif" width="350px" />
+<img style="display: inline-block" src="/img/yugotrip/step4.gif" width="350px" />
+<img style="display: inline-block" src="/img/yugotrip/step3.gif" width="350px" />
 <img style="display: inline-block" src="/img/yugotrip/step6.gif" width="350px" />
 <img style="display: inline-block" src="/img/yugotrip/step7.gif" width="350px" />
 <img style="display: inline-block" src="/img/yugotrip/step8.gif" width="350px" />
