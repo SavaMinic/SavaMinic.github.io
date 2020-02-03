@@ -14,7 +14,7 @@ This year Global Game Jam in Belgrade was record-breaking one, with 22 teams and
 This year theme was:
 **<center>REPAIR</center>**
 
-I joined forces with amazing jammers from last year, **[Nothke](https://twitter.com/Nothke/)** and **[Stihilus](https://twitter.com/Stihilus)** , but also we had help from young **[Subiicus](https://twitter.com/subiicus)** , future Game dev star:)
+I joined forces with amazing jammers from last year, **[Nothke](https://twitter.com/Nothke/)** and **[Stihilus](https://twitter.com/Stihilus)** , but also we had help from young **[Subiicus](https://twitter.com/subiicus)** , future Game dev star :)
 
 We had some problems with coming up with idea for the game, that we all were hyped about, but after exhausting Friday night we come up with this premise:
 "Trip through Yugoslavia in 80's. Repair your relationship. Repair your Yugo."<br />
@@ -25,7 +25,11 @@ We completely went nuts with [Yugo nostalgia](https://en.wikipedia.org/wiki/Yugo
 
 So basically, it's game for 2 players, a married couple with marriage problems, travelling from Belgrade to Adriatic sea, hoping to repair their estranged relationship, but also repairing their Yugo car which breaks all the time. <br />
 
-Nothke outdid himself by making different parts of the levels, which then combine into a bigger level so every run is the different. There are 3 big areas: Serbia (from [Genex Tower](https://en.wikipedia.org/wiki/Western_City_Gate)), over Drina river, through Bosnia, to [Mostar bridge](https://en.wikipedia.org/wiki/Stari_Most), and then to Croatia coastline toward the final destination - amazing [Adriatic sea](https://en.wikipedia.org/wiki/Adriatic_Sea).<br />
+Nothke outdid himself by making different parts of the levels, which then combine into a bigger level so every run is the different.<br />
+There are 3 big areas:<br >
+- Serbia (from [Genex Tower](https://en.wikipedia.org/wiki/Western_City_Gate)), over Drina river,
+- through Bosnia, to [Mostar bridge](https://en.wikipedia.org/wiki/Stari_Most),
+- and then to Croatia coastline toward the final destination - amazing [Adriatic sea](https://en.wikipedia.org/wiki/Adriatic_Sea).<br />
 
 <img class="def_image" src="/img/yugotrip/shot1.jpg" />
 
