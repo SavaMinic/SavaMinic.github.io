@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "GGJ - Game Jamming 101"
+subtitle: "Nordeus Hub - Intro 2 Gaming"
+author: savam
+image: "/img/gamejamming101/header.jpg"
+date:   2020-01-30 12:12:12
+---
+
+Intro 2 Gaming is a series of events, organized by Nordeus Hub, which gives you the opportunity to get familiar with the games industry. At this event, we talked about game jams and hackathons, and how participating in them looks like.
+<br /><br />
+I tried to give my best practices, hints, suggestions and to talk about errors I made on many game jams (both online and local) - in short, how to make something, not go crazy and have fun.
+
+**NOT YET TRANSLATED!**
+<iframe width="640" height="360" src="https://www.youtube.com/embed/1fBM9M-Na34?rel=0" frameborder="0" allowfullscreen></iframe>
+
+<br />
+Link to the presentation: [HERE](https://docs.google.com/presentation/d/e/2PACX-1vRjmwjEQfxmWOxGEeQWtRwVxqARXZdhAarQw6bLT-ST0KEbLID5CaWz7rCEcAxJUnPiO0pzYoezSAHv/pub?start=false&loop=false&delayms=3000)
