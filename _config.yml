@@ -19,7 +19,7 @@ twitter_username: savaminic
 
 markdown:  kramdown
 permalink: pretty
-paginate:  36
+paginate:  100
 
 extlinks:
   attributes: {target: _blank}
@@ -56,10 +56,10 @@ defaults:
 authors:
   savam:
     name:             Sava Minić - Game Developer
-    bio:              "Making games, playing games, getting sh*t done."
+    bio:              "Making games, playing games, getting stuff done."
     gravatar:         /img/authors/sava.jpg
     #email:            minic.sava@gmail.com
-    #website:          http://sava.ninja
+    #website:          https://sava.ninja
     github_username:  savaminic
     facebook_username: SavaMinic
     linkedin_name:    savaminic
