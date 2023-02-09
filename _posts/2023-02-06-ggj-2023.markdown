@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Global Game Jam 2023"
+subtitle: "Becoming and organizer"
+author: savam
+image: "/img/ggj2023/header.jpg"
+date:   2023-02-06 18:00:00
+---
+
+One more [Global Game Jam](https://globalgamejam.org/) has ended, and with 33,663 participants in 788 locations across 107 countries, it managed to bring the game jam community together again, despite the pandemic. ❤️<br />
+Although I have participated in many game-jam events, this is the first one I have organized. Thanks to the people who helped me, [Đorđe Nemet](https://www.linkedin.com/in/djordjenemet/) and [Toma Paleček](https://www.linkedin.com/in/tomapalecek/) were a huge support, while [Marko Moljković](https://www.linkedin.com/in/marko-moljkovi%C4%87-250718201/) and [Vera Bogdanović](https://www.linkedin.com/in/vera-bogdanovi%C4%87-66a94b227/) stepped in to capture the most exciting moments with their cameras. I am honestly very proud of the team that got together, socialized, and made games in those exciting 48 hours.<br />
+95 participants (from high school students and beginners, through students and gaming enthusiasts, to industry veterans) managed to jointly complete 21 games (18 digital and 3 board games) 🏆🚀💪
+Thank you for the motivation and super energy and for strengthening the community. This is just the beginning :)<br />
+<br />
+I want to thank Playstudios Europe for selflessly sharing their phenomenal space with us and giving the game-jam community a big boost.<br />
+<br />
+We are looking forward to the next game-jam events, probably even something before the start of the Global Game Jam next year.<br />
+<br />
+Follow us on [Instagram](https://www.instagram.com/ggj_belgrade/)<br />
+<br />
+**Check out the game presentations**<br />
+<iframe width="640" height="360" src="https://www.youtube.com/embed/5fXrFLpWSY0?rel=0" frameborder="0" allowfullscreen></iframe><br /><br />
+
+<img class="def_image" src="/img/ggj2023/p1.jpg" />
+<img class="def_image" src="/img/ggj2023/p2.jpg" />
+<img class="def_image" src="/img/ggj2023/p3.jpg" />
+<img class="def_image" src="/img/ggj2023/p4.jpg" />
+<img class="def_image" src="/img/ggj2023/p5.jpg" />
