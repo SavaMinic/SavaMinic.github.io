@@ -65,11 +65,20 @@
           </li>
           {% endif %}
 
-          {% if site.linkedin_name %}
+          {% if site.twitter_username %}
           <li>
-            <a href="https://www.linkedin.com/in/{{ site.linkedin_name }}" target="_blank">
-              <span data-icon="ei-sc-linkedin" data-size="s"></span>
-              <span role="img" aria-label="LinkedIn"> </span>
+            <a href="https://www.twitter.com/{{ site.twitter_username }}" target="_blank">
+              <span data-icon="ei-sc-twitter" data-size="s"></span>
+              <span role="img" aria-label="Twitter"> </span>
+            </a>
+          </li>
+          {% endif %}
+
+          {% if site.instagram_name %}
+          <li>
+            <a href="https://www.instagram.com/{{ site.instagram_name }}" target="_blank">
+              <span data-icon="ei-sc-instagram" data-size="s"></span>
+              <span role="img" aria-label="Instagram"> </span>
             </a>
           </li>
           {% endif %}
