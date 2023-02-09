@@ -15,7 +15,7 @@ url:              'http://sava.ninja' # The base hostname & protocol for your si
 github_username:  savaminic
 facebook_username: SavaMinic
 linkedin_name:    savaminic
-instagram_name: minic.sava
+instagram_username: minic.sava
 #twitter_username: savaminic
 
 markdown:  kramdown
@@ -64,5 +64,5 @@ authors:
     github_username:  savaminic
     facebook_username: SavaMinic
     linkedin_name:    savaminic
-    instagram_name: minic.sava
+    instagram_username: minic.sava
     #twitter_username: savaminic
