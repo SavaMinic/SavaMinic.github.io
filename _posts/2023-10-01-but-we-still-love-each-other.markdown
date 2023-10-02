@@ -8,12 +8,12 @@ date:   2023-10-01 17:00:00
 ---
 
 ### PLAY : [PLAY ONLINE](https://headhog.itch.io/but-we-still-love-each-other) [Win/Mac](https://headhog.itch.io/but-we-still-love-each-other)
-<br />
+
 Embark on a gentle dance of togetherness, playfully shifting and adjusting to find your perfect sleeping spot with your partner (not necessarily their perfect sleeping spot). 💤 <br />
 
 <img class="def_image" src="/img/ld54/but_we_still_love_each_other.gif" />
 
-After 48h, one more Ludum Dare has finished 🚀<br />
+After 48h, one more [Ludum Dare](https://ldjam.com/events/ludum-dare/54/but-we-still-love-each-other) has finished 🚀<br />
 This time, **[Stevan Popović](https://www.linkedin.com/in/stevan-popovi%C4%87-5724141b1/)** and I made the mini-game on the theme:<br />
 
 **<center>LIMITED SPACE</center>**
