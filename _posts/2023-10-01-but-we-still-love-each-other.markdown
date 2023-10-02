@@ -8,10 +8,8 @@ date:   2023-10-01 17:00:00
 ---
 
 ### PLAY : [PLAY ONLINE](https://headhog.itch.io/but-we-still-love-each-other) [Win/Mac](https://headhog.itch.io/but-we-still-love-each-other)
-
 <br />
-
-Embark on a gentle dance of togetherness, playfully shifting and adjusting to find your perfect sleeping spot with your partner (not necessarily their perfect sleeping spot). 💤 💤 💤<br />
+Embark on a gentle dance of togetherness, playfully shifting and adjusting to find your perfect sleeping spot with your partner (not necessarily their perfect sleeping spot). 💤 <br />
 
 <img class="def_image" src="/img/ld54/but_we_still_love_each_other.gif" />
 
@@ -24,17 +22,14 @@ It's a game for 2 players (Windows/Mac and Chrome), where the game's goal is to 
 Although you are asleep, you can still nudge and control your movements (a bit).<br />
 Even if someone falls off the bed, you still love each other ❤️<br />
 <br />
-
 Controls:<br />
-
-Player 1: Head (Q / W), Torso (A / S),Legs (Z / X)<br />
+Player 1: Head (Q / W), Torso (A / S), Legs (Z / X)<br />
 Player 2: Head (U / I), Torso (J / K), Legs (N / M)<br />
 
 
 <img class="def_image" src="/img/ld54/screen3.jpg" />
 <img class="def_image" src="/img/ld54/screen4.jpg" />
 <img class="def_image" src="/img/ld54/screen1.jpg" />
-
 <br />
 Gameplay video:
 
