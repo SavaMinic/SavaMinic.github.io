@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Global Game Jam 2024"
+subtitle: "Registrations are open"
+author: savam
+image: "/img/ggj2024/header.jpg"
+date:   2023-12-12 11:00:00
+---
+
+Hey everyone, registrations are open for the Global Game Jam Belgrade 2024, which will be happening from January 26th to 28th, 2024. Last year, a whopping 40,000 folks got in, creating over 7,600 games across 800+ spots in 108 countries. **Our GGJ Belgrade 2023 had 95 incredible people with 21 cool games.**<br />
+<br />
+We continue with the same crew, and this year, the "Global Game Jam Belgrade" will take place at the Palata Beograd (Beograđanka) on the 6th chill/relax floor of (PLAYSTUDIOS EUROPE)[https://www.linkedin.com/company/playstudios-europe/].<br />
+<br />
+For more info and to sign up, check out: [Official website](https://globalgamejam.org/jam-sites/2024/global-game-jam-belgrade-2024)<br />
+<br />
+And hey, feel free to hop on our (Discord channel)[https://discord.gg/UBmA3MqHa6]. That's where you can throw out questions or get the scoop on everything.<br />
+<br />
+Follow us on [Instagram](https://www.instagram.com/ggj_belgrade/) and (YouTube)[https://www.youtube.com/watch?v=5fXrFLpWSY0], where we will share the games and atmosphere from the game jam.
