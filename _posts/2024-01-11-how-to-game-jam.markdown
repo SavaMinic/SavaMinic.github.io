@@ -18,9 +18,9 @@ Check it out:
 <br />
 Speakers:<br />
 <img class="def_image" src="/img/how-to-game-jam/photo1.jpg" />
-Lazar Cvetković, Game Developer - Blue Gravity Games [](https://lazarcvetkovic.itch.io/)<br />
+[Lazar Cvetković](https://lazarcvetkovic.itch.io/), Game Developer - Blue Gravity Games<br />
 <img class="def_image" src="/img/how-to-game-jam/photo2.jpg" />
-Aleksandr Vinogradov, Lead VFX artists - Sperasoft [](https://alxgrade.itch.io/)<br />
+[Aleksandr Vinogradov](https://alxgrade.itch.io/), Lead VFX artists - Sperasoft<br />
 <br />
 And hey, feel free to hop on our [Discord channel](https://discord.gg/UBmA3MqHa6). That's where you can throw out questions or get the scoop on everything.<br />
 <br />
