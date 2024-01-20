@@ -17,14 +17,10 @@ Check it out:
 <iframe width="640" height="360" src="https://www.youtube.com/embed/chJEOFpN8zM?rel=0" frameborder="0" allowfullscreen></iframe>
 <br />
 Speakers:<br />
-[Aleksandr Vinogradov, Lead VFX artists - Sperasoft] (https://alxgrade.itch.io/)<br />
-[Lazar Cvetković, Game Developer - Blue Gravity Games] (https://lazarcvetkovic.itch.io/)<br />
-<br />
 <img class="def_image" src="/img/how-to-game-jam/photo1.jpg" />
+Lazar Cvetković, Game Developer - Blue Gravity Games [](https://lazarcvetkovic.itch.io/)<br />
 <img class="def_image" src="/img/how-to-game-jam/photo2.jpg" />
-<br />
-
-For more info about Global Game Jam Belgrade, check out: [the official website](https://globalgamejam.org/jam-sites/2024/global-game-jam-belgrade-2024)<br />
+Aleksandr Vinogradov, Lead VFX artists - Sperasoft [](https://alxgrade.itch.io/)<br />
 <br />
 And hey, feel free to hop on our [Discord channel](https://discord.gg/UBmA3MqHa6). That's where you can throw out questions or get the scoop on everything.<br />
 <br />
