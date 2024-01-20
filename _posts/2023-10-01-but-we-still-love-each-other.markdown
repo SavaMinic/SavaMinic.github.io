@@ -22,9 +22,9 @@ It's a game for 2 players (Windows/Mac and Chrome), where the game's goal is to 
 Although you are asleep, you can still nudge and control your movements (a bit).<br />
 Even if someone falls off the bed, you still love each other ❤️<br />
 <br />
-EDIT: We finished 12th in Theme and 10th in Humour category 🏆<br />
+**EDIT: We finished 12th in Theme and 10th in Humour category **🏆<br />
 <img class="def_image" src="/img/ld54/results.jpg" /><br />
-<br />
+
 Controls:<br />
 Player 1: Head (Q / W), Torso (A / S), Legs (Z / X)<br />
 Player 2: Head (U / I), Torso (J / K), Legs (N / M)<br />
