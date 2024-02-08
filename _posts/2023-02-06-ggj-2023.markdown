@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Global Game Jam 2023"
+title:  "Global Game Jam Belgrade 2023"
 subtitle: "Coming back after the pandemic"
 author: savam
 image: "/img/ggj2023/header.jpg"
