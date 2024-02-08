@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Global Game Jam 2024"
+subtitle: "Make me laugh"
+author: savam
+image: "/img/ggj2024main/header.jpg"
+date:   2024-01-28 21:00:00
+---
+
+[The Global Game Jam 2024](https://globalgamejam.org/)  just finished with sky-rocket numbers of 34,588 participants at 796 locations in 102 countries all over the world 🏆 .<br />
+
+It was the biggest Global Game Jam Belgrade (yet), with 143 participants who made 39 games, and I want to thank all the participants who made it happen, having fun, meeting new people, and strengthening the game-making community. You can try their games [HERE](https://globalgamejam.org/jam-sites/2024/global-game-jam-belgrade-2024)<br />
+
+This would be much harder without the support of our friends at [PLAYSTUDIOS EUROPE](https://www.linkedin.com/company/playstudios-europe/), who provided their extraordinary space and snacks for everyone.
+We are very thankful to [Coca-Cola HBC](https://www.linkedin.com/company/coca-cola-hbc/) for keeping us refreshed during GGJ 🚀🥤, and [Wolt](https://www.linkedin.com/company/wolt-oy/), who got our back with vouchers to ensure everyone stays fueled for the 48-hour challenge! 🍔🚀<br />
+
+Last but not least, I want to thank all the co-organizers: [Toma Paleček](https://www.linkedin.com/in/tomapalecek/), [Miroslav Maksimović](https://www.linkedin.com/in/maksimovicmiroslav/), [Neda Stamenković](https://www.linkedin.com/in/nedastamenkovic/), [Marija Ljubojević](https://www.linkedin.com/in/marija-ljubojevi%C4%87-b7b576242/), [Jakov Peric](https://www.linkedin.com/in/jakov-peric-0a8906276/), Dejan Babić, [Andrija Lazić](https://www.linkedin.com/in/andrija-lazi%C4%87-dia/) and [Nikola Šobajić](https://www.nikolasobajic.com/). This year's event was much less stressful and a thousand times more fun, by working together with these amazing people. 💪<br />
+
+**Follow us on [Instagram](https://www.instagram.com/ggj_belgrade/), and see you next year 😁**<br />
+<iframe width="640" height="360" src="https://www.youtube.com/embed/uEWUGczeLwo?rel=0" frameborder="0" allowfullscreen></iframe><br />
+
+Gallery:<br />
+<img class="def_image" src="/img/ggj2024main/photo1.jpg" />
+<img class="def_image" src="/img/ggj2024main/photo2.jpg" />
+<img class="def_image" src="/img/ggj2024main/photo3.jpg" />
+<img class="def_image" src="/img/ggj2024main/photo4.jpg" />
+<img class="def_image" src="/img/ggj2024main/photo5.jpg" />
+<img class="def_image" src="/img/ggj2024main/photo6.jpg" />
