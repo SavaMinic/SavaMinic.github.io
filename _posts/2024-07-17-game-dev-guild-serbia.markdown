@@ -4,7 +4,7 @@ title:  "Game Dev Guild Serbia"
 subtitle: "Conquering together"
 author: savam
 image: "/img/gamedevguild/header.jpg"
-date:   2024-17-07 21:00:00
+date:   2024-07-17 15:00:00
 ---
 
 Hi gamers, and welcome to the Game Dev Guild Serbia! 🎮🇷🇸<br />
