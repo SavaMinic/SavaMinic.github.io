@@ -6,7 +6,11 @@ author: savam
 image: "/img/gamedevguild/header.jpg"
 date:   2024-07-17 15:00:00
 ---
+I am very proud to be a co-founder of this amazing guild, with such proactive people from all around the local game dev industry.<br />
+When you miss something, and there is no one that does that, it means you are the "one" that needs to do it.<br />
+And it's much easier to do stuff in the group 🤝<br />
 
+Intro from the social media:<br />
 Hi gamers, and welcome to the Game Dev Guild Serbia! 🎮🇷🇸<br />
 <br />
 ...or GDG for short. ✨<br />
