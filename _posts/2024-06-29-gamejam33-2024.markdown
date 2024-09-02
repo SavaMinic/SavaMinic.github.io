@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Game Jam 33 (2024)"
+subtitle: "Academy of Arts, Novi Sad"
+author: savam
+image: "/img/gamejam33-2024/header.jpg"
+date:   2024-06-29 19:00:00
+---
+
+[The Game Jam 33](https://www.instagram.com/gamejam.33/) was an event organized by the [Academy of Arts](https://www.instagram.com/akademijaumetnostinovisad) in Novi Sad, specifically department of the Video Game Design 🏆 .<br />
+
+It was open to the Academy students (which were mostly illustrators, 3D artists, game designers, and sound designer), combined with selected game jam software developers (from all around).<br />
+
+I was invited by the organizer, [Živa Stanojević](https://www.linkedin.com/in/zivastanojevic/), the Assistant Professor at Academy of Arts, to be a mentor for the participants, for which I am very thankful as I had a lot of fun and met a lot of cool and proactive people.
+
+Watch some previews from the game jam, as the official movie is not yet finished:
+<iframe width="640" height="360" src="https://www.youtube.com/embed/bFC2EQczp2k?rel=0" frameborder="0" allowfullscreen></iframe><br />
+<iframe width="640" height="360" src="https://www.youtube.com/embed/FgifLEEJv3E?rel=0" frameborder="0" allowfullscreen></iframe><br />
