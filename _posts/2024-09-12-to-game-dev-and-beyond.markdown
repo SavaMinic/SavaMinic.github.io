@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "To Game Dev and Beyond"
-subtitle: "Casual game-makers meetup"
+subtitle: "Casual game-dev meetup"
 author: savam
 image: "/img/to-gamedev-and-beyond/header.jpg"
 date:   2024-09-12 18:00:00

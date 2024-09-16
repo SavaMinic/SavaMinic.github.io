@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GMTK Game Jam 2024"
-subtitle: "Belgrade location"
+subtitle: "Built to Scale"
 author: savam
 image: "/img/gmtk2024/header.jpg"
 date:   2024-08-16 19:00:00
