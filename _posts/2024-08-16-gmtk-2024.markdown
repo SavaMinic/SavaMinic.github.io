@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "GMTK Game Jam 2024"
+subtitle: "Belgrade location"
+author: savam
+image: "/img/gmtk2024/header.jpg"
+date:   2024-08-16 19:00:00
+---
+
+We finished summer with the bang - another [GMTK Game Jam](https://itch.io/jam/gmtk-2024) location was organized in the August 🔥🔥🔥<br />
+
+The game jam lasted a total of 4 days from August 16th to 20th. 🚀 This was a novelty compared to previous iterations when the event lasted the standard 48 hours. If somebody wanted to stay in the 48-hour format, there was be an option to submit the game for that category. 🕒
+<br />
+
+The theme, "Built to Scale", offered a lot of room for interpretation, and it was great to see the range of ideas that came out of it. <br />
+<img class="def_image" src="/img/gmtk2024/Theme Reveal_1.gif" />
+<br />
+
+
+Around 90 participants attended, and the atmosphere was both focused and collaborative, as teams worked hard to bring their games to life.<br />
+By the end, 18 games were presented from the 24 teams, though some didn’t manage to finish in time or make it to the final showcase.<br />
+<img class="def_image" src="/img/gmtk2024/photo1.jpg" />
+<br />
+<img class="def_image" src="/img/gmtk2024/photo2.jpg" />
+<br />
+<img class="def_image" src="/img/gmtk2024/photo3.jpg" />
+<br />
+<img class="def_image" src="/img/gmtk2024/photo4.jpg" />
+<br />
+
+**Watch the full video on Youtube:**<br />
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Y_GBPaCEPc0?rel=0" frameborder="0" allowfullscreen></iframe><br />
