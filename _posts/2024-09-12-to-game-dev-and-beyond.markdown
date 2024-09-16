@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Intro to Gamejamming"
-subtitle: "Pre-event for GMTK 2024"
+title:  "To Game Dev and Beyond"
+subtitle: "Casual meetup"
 author: savam
 image: "/img/to-gamedev-and-beyond/header.jpg"
 date:   2024-09-12 18:00:00
