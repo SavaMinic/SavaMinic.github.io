@@ -5,7 +5,7 @@ date:   2018-05-01 12:12:12
 ---
 
 Making games, playing games, getting stuff done.<br />
-Game Developer @ [Nordeus](http://www.nordeus.com/)<br />
+Lead Game Developer @ [Nordeus](http://www.nordeus.com/)<br />
 
 Contact: minic.sava <b>at</b> gmail.com
 
