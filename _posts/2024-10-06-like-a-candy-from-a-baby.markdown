@@ -39,7 +39,7 @@ Player 4: Move (Joystick 4 stick) Hold/release (button 2), Jump (button 1)<br />
 <img class="def_image" src="/img/ld56/location.jpg" />
 
 I really want to thank [Vuk Savić](https://www.instagram.com/vucejebote/), [Mihailo Bogdanović](https://www.instagram.com/crknuchu/), and [Ivan Notaroš](https://twitter.com/Nothke) for organizing the physical location for game jamming, as a part of [Decentrala](https://dmz.rs/) events. Looking forward to many more events 🏆<br /> 
-<img class="def_image" src="/img/ld56/organizers.jpg" />
+<img class="def_image" src="/img/ld56/organizers.jpeg" />
 <br />
 Gameplay video:
 <iframe width="640" height="360" src="https://www.youtube.com/embed/o2MSYMG4iyM?rel=0" frameborder="0" allowfullscreen></iframe>
