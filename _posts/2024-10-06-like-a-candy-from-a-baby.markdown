@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Like a candy from a baby"
-subtitle: "Ludum Dare 56"
+subtitle: "Ludum Dare 56 - Tiny Creatures"
 author: savam
 image: "/img/ld56/header.jpg"
 date:   2024-10-05 12:00:00
@@ -14,7 +14,7 @@ In **"Like a Candy from a Baby,"** you are in the role of a candy-craving five-y
 
 <img class="def_image" src="/img/ld56/like-a-candy-from-a-baby.gif" />
 
-[Ludum Dare](https://ldjam.com/events/ludum-dare/56/$396094) 56 has finished 🚀<br />
+[Ludum Dare 56](https://ldjam.com/events/ludum-dare/56/$396094) has finished 🚀<br />
 This time, there was an organized location at [DC Krov](https://www.instagram.com/dc.krov/), which was very fun to participate.<br />
 I was a bit late for the start, so the teams already formed, so I was working alone on a theme:<br />
 
@@ -38,7 +38,7 @@ Player 4: Move (Joystick 4 stick) Hold/release (button 2), Jump (button 1)<br />
 <img class="def_image" src="/img/ld56/jamming.jpg" />
 <img class="def_image" src="/img/ld56/location.jpg" />
 
-I really want to thank [Vuk Savić](https://www.instagram.com/vucejebote/), [Mihailo Bogdanović](https://www.instagram.com/crknuchu/), and [Ivan Notaroš](https://twitter.com/Nothke) for organizing the physical location for game jamming, as a part of [Decentrala](https://dmz.rs/) events. Looking forward to many more events 🏆<br /> 
+I really want to thank [Vuk Savić](https://www.instagram.com/vucejebote/), [Ivan Notaroš](https://twitter.com/Nothke) and [Mihailo Bogdanović](https://www.instagram.com/crknuchu/) for organizing the physical location for game jamming, as a part of [Decentrala](https://dmz.rs/) events. Looking forward to many more events 🏆<br /> 
 <img class="def_image" src="/img/ld56/organizers.jpeg" />
 <br />
 Gameplay video:

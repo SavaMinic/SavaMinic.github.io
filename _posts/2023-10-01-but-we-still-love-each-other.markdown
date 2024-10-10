@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "But we still love each other"
-subtitle: "Ludum Dare 54"
+subtitle: "Ludum Dare 54 - Limited Space"
 author: savam
 image: "/img/ld54/header.jpg"
 date:   2023-10-01 17:00:00
