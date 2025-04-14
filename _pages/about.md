@@ -4,8 +4,8 @@ title: About
 date:   2018-05-01 12:12:12
 ---
 
-Making games, playing games, getting stuff done.<br />
-Lead Game Developer @ [Nordeus](http://www.nordeus.com/)<br />
+Lead Game Designer 📱 | Game Jam Fanatic 🍯 | Board games enthusiast 🎲<br />
+Making games, playing games, getting stuff done @ [Nordeus](http://www.nordeus.com/)<br /><br />
 
 Contact: minic.sava <b>at</b> gmail.com
 
