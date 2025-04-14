@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Global Game Jam 2025"
+subtitle: "Bubble/Corruption kills"
+author: savam
+image: "/img/ggj2025/header.jpg"
+date:   2025-01-25 17:00:00
+---
+
+Another win with [Game Dev Guild Serbia](https://gamedevguild.rs/) 🚀 
+It's such a fun and inspiring thing to co-organize the game jam, when you have pro-active people like [Miroslav Maksimović](https://www.linkedin.com/in/maksimovicmiroslav/), [Marija Ljubojević](https://www.linkedin.com/in/marija-ljubojevi%C4%87-b7b576242/), [Neda Stamenković](https://www.linkedin.com/in/nedastamenkovic/), [Toma Paleček](https://www.linkedin.com/in/tomapalecek/), [Ivona Panajotov](https://www.linkedin.com/in/ivona-panajotov-201947219/), [Andrija Lazić](https://www.linkedin.com/in/andrija-lazi%C4%87-dia/) and [Jakov Peric](https://www.linkedin.com/in/jakov-peric-0a8906276/) to discuss, organize and push for the greater cause 👏 👏👏
+<br />
+[The Global Game Jam Belgrade 2025](https://globalgamejam.org/jam-sites/2025/global-game-jam-belgrade-2025) brought together 95 participants—students, hobbyists, and industry veterans—who created 31 games (25 video games and 6 board games) over the weekend.
+<br />
+The event kicked off remotely on Friday due to a general strike [supporting students’ demands against corruption](https://www.instagram.com/studenti_u_blokadi/) but continued on-site for the rest of the jam. This year’s themes, **"Bubble"** and alternative theme **"Corruption (kills),"** inspired some truly inventive and thought-provoking projects.
+<br />
+Super thanks again to the [Playstudios Europe](https://www.linkedin.com/company/playstudios-europe/) for hosting the event again this year.<br />
+Check out the [Gameplay videos](https://www.youtube.com/playlist?list=PLUwnzoFckRX2zVeAinAXUEjvQLc67P8zB) and [the full presentation stream](https://www.youtube.com/watch?v=j0gB2h_nNF0&feature=youtu.be).
+<br />
+<img class="def_image" src="/img/ggj2025/p1.jpg" />
+<br />
+<img class="def_image" src="/img/ggj2025/p2.jpg" />
+<br />
+<img class="def_image" src="/img/ggj2025/p3.jpg" />
+<br />
+<img class="def_image" src="/img/ggj2025/p4.jpg" />
+<br />
+<img class="def_image" src="/img/ggj2025/p5.jpg" />
+<br />
