@@ -7,11 +7,11 @@ image: "/img/skc-gamejam/header.jpg"
 date:   2025-05-09 19:00:00
 ---
 
-As our precious Serbian society is literally [crushing down under the weights of the corruption](https://en.wikipedia.org/wiki/Novi_Sad_railway_station_canopy_collapse), in the last 6 months youth, students and proactive people have [risen to defend the law](https://www.instagram.com/studenti_u_blokadi/) and lives of the people, protesting and awakening people to fight for a better society.<br />
+As our precious Serbian society is literally [crushing down under the weights of the corruption](https://en.wikipedia.org/wiki/Novi_Sad_railway_station_canopy_collapse), the past six months have seen a powerful response from [youth, students, and proactive citizens](https://www.instagram.com/studenti_u_blokadi/) who have risen to defend justice and advocate for a better future through protest and civic engagement.<br />
 
-For the first time ever, the crew that [liberated the Student Cultural Center](https://www.instagram.com/skc.u.blokadi/?hl=en), were taking over SKC for **48 hours** of creativity, code and multidisciplinary collaboration!<br />
+For the first time ever, the same crew that [liberated the Student Cultural Center](https://www.instagram.com/skc.u.blokadi/?hl=en), were taking over the space for **48 hours** of creativity, code and multidisciplinary collaboration!<br />
 
-**[SKC Game Jam](https://itch.io/jam/skc-game-jam)** was open for any artist, designer, composer or programmer, independently or in a team, as this was an opportunity for those who want to experiment, learn from each other and improve their skills.<br />
+**[SKC Game Jam](https://itch.io/jam/skc-game-jam)** was open to artists, designers, composers, and programmers—whether solo or in teams. It offered a unique opportunity for participants to experiment, learn from one another, and sharpen their skills in a vibrant, collaborative environment.<br />
 
 <img class="def_image" src="/img/skc-gamejam/photo1.jpg" /><br />
 I was just a visitor, but the energy from the participating jammers made me feel great, as there was both new faces on the block working together with game jam veterans, focused on making a game based on the theme: **Armchair (Fotelja).**<br />
