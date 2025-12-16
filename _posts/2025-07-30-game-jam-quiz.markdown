@@ -14,7 +14,7 @@ Congrats to the winner team who aced the quiz 💪🏻
 
 Our amazing [Toma Paleček](https://www.linkedin.com/in/tomapalecek/) and [Miroslav Maksimović](https://www.linkedin.com/in/maksimovicmiroslav/) did an *amazing* job as quiz hosts 🎤
 
-Special thanks to Anastasija Jankovic for capturing our event 📸
+Special thanks to [Anastasija Jankovic](https://www.instagram.com/_vidda__/) for capturing our event 📸
 
 And of course, thanks [Nordeus](linkedin.com/company/nordeus/) for providing us with the beautiful space and drinks 🧡✨
 
