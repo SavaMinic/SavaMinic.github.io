@@ -13,12 +13,11 @@ You can check out the [GAMES LIST](https://docs.google.com/document/d/154j-XW_lm
 <br />
 
 Small but efficient crew can make wonders 💪 <br />
-This was basically a cooperation led by [Julia Novikova](https://www.linkedin.com/in/julia-novikova-271435233/) from [Whatevers Team](https://t.me/whateversstudio), supported by our guild regulars: [Miroslav Maksimović](https://www.linkedin.com/in/maksimovicmiroslav/) , [Toma Paleček](https://www.linkedin.com/in/tomapalecek/) and [Andrija Lazić](https://www.linkedin.com/in/andrija-lazi%C4%87-dia/).
+This was basically a cooperation led by [Julia Novikova](https://www.linkedin.com/in/julia-novikova-271435233/) from [Whatevers Team](https://t.me/whateversstudio), supported by our guild regulars: [Miroslav Maksimović](https://www.linkedin.com/in/maksimovicmiroslav/) , [Toma Paleček](https://www.linkedin.com/in/tomapalecek/) and [Andrija Lazić](https://www.linkedin.com/in/andrija-lazi%C4%87-dia/).<br />
 Thanks for leading and supporting the local community.
 <br />
 
 And also, super grateful to [Prostor Miljenko Dereta](https://www.linkedin.com/company/prostor-miljenko-dereta/) for opening their doors to these creative and inspiring game-makers ❤️ <br />
-
 <br />
 <img class="def_image" src="/img/indie-showcase-2025/photo1.jpg" />
 <br />
