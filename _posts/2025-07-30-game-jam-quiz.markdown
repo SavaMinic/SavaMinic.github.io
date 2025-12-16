@@ -4,7 +4,7 @@ title:  "Game Jam Pub Quiz"
 subtitle: "Built to Scale"
 author: savam
 image: "/img/pubquiz2025/header.jpg"
-date:   2025-06-30 19:00:00
+date:   2025-07-30 19:00:00
 ---
 
 We wanted to have an unique event to warm up for the GMTK Jam so we organized the PUB QUIZ - a test of your knowledge on video games, mixed up with trivia on the usual game jam lore 🍄!<br />
