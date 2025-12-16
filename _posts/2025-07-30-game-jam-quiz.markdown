@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Game Jam Pub Quiz"
-subtitle: "Built to Scale"
+subtitle: "Warp-up for GMTK jam"
 author: savam
 image: "/img/pubquiz2025/header.jpg"
 date:   2025-07-30 19:00:00
