@@ -7,7 +7,7 @@ image: "/img/indie-showcase-2025/header.jpg"
 date:   2025-11-16 15:00:00
 ---
 
-Indie Game Showcase finished and we still can’t believe we had so many fresh games showcasing (27), and was having busy crowd playing games the whole day (250+ people).
+Indie Game Showcase finished and we still can’t believe we had so many fresh games showcasing (**27**), and was having busy crowd playing games the whole day (**250+ people**).
 <br />
 You can check out the [GAMES LIST](https://docs.google.com/document/d/154j-XW_lmTjzbtitredpEDDEiRqAG72UQddx1o-nafI/edit?tab=t.0).
 <br />
