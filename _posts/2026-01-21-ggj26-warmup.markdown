@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Game Jam Pub Quiz"
+title:  "Global Game Jam Warmup"
 subtitle: "Warm-up for GGJ 2026 jam"
 author: savam
 image: "/img/ggj26-warmup/header.jpg"
