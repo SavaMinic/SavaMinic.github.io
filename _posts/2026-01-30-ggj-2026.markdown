@@ -3,7 +3,7 @@ layout: post
 title:  "Global Game Jam 2026"
 subtitle: "Bubble + Corruption kills"
 author: savam
-image: "/img/ggj2026/h.jpg"
+image: "/img/ggj2026/header.jpg"
 date:   2026-01-30 17:00:00
 ---
 
@@ -14,6 +14,8 @@ Our [Game Dev Guild location in Belgrade](https://globalgamejam.org/jam-sites/20
 Being part of a global initiative while strengthening a local community is where the real impact happens ✨ <br />
 
 Check out the [Gameplay videos](https://www.youtube.com/playlist?list=PLUwnzoFckRX10q_RMwpzeScXGr9yeY6PF) and [the full presentation stream](https://youtu.be/LjB0cISJwB0).<br />
+<br />
+<img class="def_image" src="/img/ggj2026/photo0.jpg" />
 <br />
 <img class="def_image" src="/img/ggj2026/photo1.jpg" />
 <br />
