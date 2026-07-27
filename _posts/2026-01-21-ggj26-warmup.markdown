@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Game Jam Pub Quiz"
+subtitle: "Warm-up for GMTK jam"
+author: savam
+image: "/img/ggj26-warmup/header.jpg"
+date:   2026-01-21 19:00:00
+---
+
+Global Game Jam Warmup was on fire 🔥🔥🔥<br />
+Thanks to [Nitročelik Games](https://www.instagram.com/badweek.game/) and [Shosha Games](https://www.instagram.com/shosha_games/) who shared their journey from jam game to a full releasable game, it is really inspiring.<br />
+We are super thankful to [Nordeus](linkedin.com/company/nordeus/) for providing us with space and refreshments, it always feels like home there ❤️<br />
+
+And of course, thanks [Nordeus](linkedin.com/company/nordeus/) for providing us with the beautiful space and drinks 🧡✨
+
+<br />
+<img class="def_image" src="/img/ggj26-warmup/photo1.jpg" />
+<br />
+<img class="def_image" src="/img/ggj26-warmup/photo2.jpg" />
+<br />
+<img class="def_image" src="/img/ggj26-warmup/photo3.jpg" />
+<br />
