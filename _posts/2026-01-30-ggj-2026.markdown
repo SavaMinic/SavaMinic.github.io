@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Global Game Jam 2026"
-subtitle: "Bubble + Corruption kills"
+subtitle: "MASK"
 author: savam
 image: "/img/ggj2026/header.jpg"
 date:   2026-01-30 17:00:00

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Game Jam Pub Quiz"
-subtitle: "Warm-up for GMTK jam"
+subtitle: "Warm-up for GGJ 2026 jam"
 author: savam
 image: "/img/ggj26-warmup/header.jpg"
 date:   2026-01-21 19:00:00
