@@ -44,6 +44,8 @@ Temporary Items
 
 #Jekyll
 _site
+.jekyll-cache
+vendor/bundle
 
 # webstorm
 .idea

@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "GDG Game JAM 2026"
+subtitle: "Order / Countdown"
+author: savam
+image: "/img/gdg-gamejam-2026/header.jpg"
+date:   2026-08-02 18:00:00
+---
+
+Game Dev Guild Serbia organized a 48-hour jam this weekend — 60 jammers, 21 games, theme **Order / Countdown**. Same two words on the board, and by Sunday we had 21 completely different takes. That never gets old 💚<br />
+
+<img class="def_image" src="/img/gdg-gamejam-2026/photo1.jpg" />
+<br />
+<img class="def_image" src="/img/gdg-gamejam-2026/photo2.jpg" />
+<br />
+Good energy in the room the whole way: people pairing up, shipping something, and even pulling out a guitar when the caffeine kicked in. Bravo to everyone who stuck it out 👾<br />
+
+Then the GD(GG)J presentations — always a fun few hours. Thanks for showing your games. If you missed it, the full stream is below 🔥<br />
+
+<img class="def_image" src="/img/gdg-gamejam-2026/photo3.jpg" />
+<br />
+<img class="def_image" src="/img/gdg-gamejam-2026/photo4.jpg" />
+<br />
+A jam like this only works because people show up for the community around it. Huge thanks to our sponsors: [Two Desperados](https://www.instagram.com/twodesperados/) opened their space and made us feel at home, [Wargaming](https://www.instagram.com/wargaming/) kept everyone fed through the 48 hours, and [Stikeraj](https://www.instagram.com/stikeraj.rs/) brought the stickers and that extra bit of fun energy 🧡✨<br />
+
+<br />
+<iframe width="640" height="360" src="https://www.youtube.com/embed/gixidb7SSsY?rel=0" frameborder="0" allowfullscreen></iframe>
+<br />

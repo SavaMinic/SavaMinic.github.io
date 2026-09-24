@@ -40,6 +40,9 @@ exclude:
 
 sass:
   style: compressed
+  quiet_deps: true
+  silence_deprecations:
+    - import
 
 # Tags
 tag_page_dir:         tag
